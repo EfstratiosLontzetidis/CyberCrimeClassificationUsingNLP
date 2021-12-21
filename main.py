@@ -63,122 +63,150 @@ while(add_more):
         for x in cyber_criminal_list:
             if crime_case.__contains__(x):
                 new_case.hasOffender = ['Cyber Criminal']
+                break
 
         for x in cyber_fighter_list:
             if crime_case.__contains__(x):
                 new_case.hasOffender = ['Cyber Fighter']
+                break
 
         for x in hacktivist_list:
             if crime_case.__contains__(x):
                 new_case.hasOffender = ['Hacktivist']
 
+
         for x in cyber_terrorist_list:
             if crime_case.__contains__(x):
                 new_case.hasOffender = ['Cyber Terrorist']
+                break
 
         for x in script_kiddie_list:
             if crime_case.__contains__(x):
                 new_case.hasOffender = ['Script Kiddie']
+                break
 
         for x in insider_list:
             if crime_case.__contains__(x):
                 new_case.hasOffender = ['Insider']
+                break
 
         for x in online_social_hacker_list:
             if crime_case.__contains__(x):
                 new_case.hasOffender = ['Online Social Hacker']
+                break
 
         for x in entities_as_offenders_list:
             if crime_case.__contains__(x):
                 new_case.hasOffender = ['Entities as Offenders']
+                break
 
         for x in sexually_deviant_user_list:
             if crime_case.__contains__(x):
                 new_case.hasOffender = ['Sexually Deviant User']
+                break
 
         # checking for access violation characteristics
 
         for x in physical_tampering_list:
             if crime_case.__contains__(x):
                 new_case.hasAccessViolation = ['Physical Tampering']
+                break
 
         for x in local_computer_access_list:
             if crime_case.__contains__(x):
                 new_case.hasAccessViolation = ['Local Computer Access']
+                break
 
         for x in remote_computer_access_list:
             if crime_case.__contains__(x):
                 new_case.hasAccessViolation = ['Remote Computer Access']
+                break
 
         # checking for target characteristics
 
         for x in physical_abuse_list:
             if crime_case.__contains__(x):
                 new_case.hasTarget = ['Physical Abuse']
+                break
 
         for x in emotional_abuse_list:
             if crime_case.__contains__(x):
                 new_case.hasTarget = ['Emotional Abuse']
+                break
 
         for x in social_abuse_list:
             if crime_case.__contains__(x):
                 new_case.hasTarget = ['Social Abuse']
+                break
 
         for x in sexual_abuse_list:
             if crime_case.__contains__(x):
                 new_case.hasTarget = ['Sexual Abuse']
+                break
 
         for x in financial_abuse_list:
             if crime_case.__contains__(x):
                 new_case.hasTarget = ['Financial Abuse']
+                break
 
         for x in ict_abuse_list:
             if crime_case.__contains__(x):
                 new_case.hasTarget = ['ICT Abuse']
+                break
 
         for x in infrastructure_ict_abuse_list:
             if crime_case.__contains__(x):
                 new_case.hasTarget = ['Infrastructure ICT Abuse']
+                break
 
         # checking for victim characteristics
 
         for x in kid_list:
             if crime_case.__contains__(x):
                 new_case.hasVictim = ['Kid']
+                break
 
         for x in adult_list:
             if crime_case.__contains__(x):
                 new_case.hasVictim = ['Adult']
+                break
 
         for x in company_list:
             if crime_case.__contains__(x):
                 new_case.hasVictim = ['Company']
+                break
 
         for x in country_list:
             if crime_case.__contains__(x):
                 new_case.hasVictim = ['Country']
+                break
 
         # checking for harm characteristics
 
         for x in individual_harm_list:
             if crime_case.__contains__(x):
                 new_case.hasHarm = ['Individual Harm']
+                break
 
         for x in generalized_individual_harm_list:
             if crime_case.__contains__(x):
                 new_case.hasHarm = ['Generalized Individual Harm']
+                break
 
         for x in aggregated_individual_harm_list:
             if crime_case.__contains__(x):
                 new_case.hasHarm = ['Aggregated Individual Harm']
+                break
 
         for x in direct_systemic_harm_list:
             if crime_case.__contains__(x):
                 new_case.hasHarm = ['Direct Systemic Harm']
+                break
 
         for x in inchoate_harm_list:
             if crime_case.__contains__(x):
                 new_case.hasHarm = ['Inchoate Harm']
+                break
 
     else:
         add_more=False
