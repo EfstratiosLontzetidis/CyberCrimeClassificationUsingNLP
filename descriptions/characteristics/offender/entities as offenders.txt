@@ -1,0 +1,41 @@
+China unsurprisingly remains the number one most active and prolific nation waging cyber espionage attacks, according to a new report, but threat groups with ties to Russia and Iran--and North Korea--expanded their targeted attack campaigns in the past year as cyber espionage and politically motivated cyber attacks from various corners of the globe have become the new normal.
+
+Security intelligence firm CrowdStrike's 2014 Global Threat Report published today showed how hacking last year became a popular and effective weapon in geopolitical conflicts in emerging nation-state associated groups, while gathering intelligence for economic competitive reasons as well as politics, continue to fuel China's vast cyber espionage machine.
+
+Adam Meyers, vice president of intelligence at CrowdStrike, says his firm watched this activity overall increase dramatically in 2014, and with more nations involved than ever. "Just the increase in activity and seeing so many different states continuing to be active" was the most striking takeaway from last year, he says. "The more publicized and exposed this was, it seems to be almost becoming an advertisement [for this activity]:  'see, it's becoming effective.'"
+
+In a year when the US Department of Justice issued an historic indictment of five Chinese military officers for association with cyber espionage against US companies--charges that named names and ultimately sent their pictures to the FBI's Most Wanted list--hacking by various nations against one another actually increased. While the DOJ's legal actions signaled a shift in US policy over China's well-known persistent and widespread hacking into US companies for trade secrets and other intelligence, in reality, it wasn't expected to incur much damage on China's hacking activities, nor result in any extraditions.
+
+"It shows other countries that nothing's going to happen … We indicted five PLA officers, which is major from our standpoint. But it's not going to result in extradition," Meyers says. It was an example of how individuals involved in targeted cyber attacks by nation-states go unpunished in the end, and the hacking operations continue to be effective, according to Meyers.
+
+CrowdStrike--which closely tracks some 39 different nation-state, criminal, nationalist, and hacktivist hacking groups, and Meyers notes that there are others out there as well--noticed a couple of interesting trends with Chinese cyber espionage gangs last year. For one, they are increasingly adaptive to hide their tracks when intel firms like CrowdStrike get too close to them.
+
+One of the most advanced hacking groups in this realm, dubbed Hurricane Panda by CrowdStrike, was able to adjust to CrowdStrike researchers' constant tracking and detection of their activity, especially for domains for their command and control operations. Meyers says the Hurricane Panda team responded to the heat by hardcoding free dynamic DNS service Hurricane Electric's name servers into their PlugX malware. "The service allowed you to create any record regardless if it was a valid domain or one that you owned. The attacker set up legitimate domains like Pinterest.com, which would resolve to a location of their choosing if you queried Hurricane Electric name servers."
+
+The hard-coded Hurricane Electric name servers in the malware made the domain request by PlugX appear to be querying Pinterest.
+
+"That's kind of a cool tactic," Meyers says. "They know we track them, so this is one of the techniques they use" to hide, he says.
+
+CrowdStrike warns that Hurricane Panda, which targets mainly Internet services, engineering, and aerospace firms, is one of the "more capable" attack groups out of China, "and run-ins with this actor should be treated with the utmost concern," the company said in its report. CrowdStrike says this group harbors "an arsenal of exploits" targeting privilege escalation bugs, and has employed at least two zero-day exploits since February of 2014.
+
+Like many other Chinese nation-state hacking teams, Hurricane Panda is especially fond of using the PlugX remote access Trojan, a Chinese cyber spying tool. It was PlugX that allowed the group to abuse free DNS services, such as Hurricane Electric in California, in their quest to hide from CrowdStrike's investigators. "By abusing Hurricane Electric's free DNS service, the actors were able to resolve popular domains like www.pinterest.com, adobe.com, and github.com," the report says. "Hurricane Panda leveraged PlugX’s custom DNS feature to use the free DNS hosting services provided by Hurricane Electric to resolve these domains to PlugX C2 nodes instead of their legitimate IP addresses." 
+
+Hurricane Panda also used Google Code project for surreptitiously hosting its PlugX C&C node.
+
+But the so-called Goblin Panda hacking group was the most active last year, according to CrowdStrike, hitting mainly targets in Vietnam amid geopolitical tensions over control of the South China Sea, in rapid-fire attacks from late spring until early summer. That placed Vietnam as the number one most targeted nation, just ahead of the US.
+
+[The US Department of Justice and the FBI indict five members of the Chinese military for allegedly hacking and stealing trade secrets of major American steel, solar energy, and other manufacturing companies, including Alcoa, Westinghouse Electric, and US Steel. Read 'The New Normal': US Charges Chinese Military Officers With Cyber Espionage.]
+
+Meanwhile, reports late last week pointed to attackers out of China as the possible culprits behind the massive breach at health insurer Anthem, which may have exposed personal information of some 80 million people. CrowdStrike's Meyers says while his firm is not involved in the investigation into the Anthem breach, they have seen the so-called Deep Panda cyber espionage group out of China targeting healthcare organizations in the past. "If it was China, it could possibly be Deep Panda … that's a natural first guess," Meyers says. "Customer name and address information could be used in support of activities leveraged toward collecting information to support human intel operations.
+
+"They suck up everything they can get their hands on," he says of nation-state hacking groups out of China. "They [feel] it's better to over collect" information, he says.
+
+North Korea's apparent role behind the destruction of Sony's data in that massive attack demonstrated the messier side of targeted attacks, when data is wiped from computers. "The North Korean attack on Sony was absolutely a watershed moment for everybody. Because within hours, they saw Sony pull a movie, and the President was on TV" talking about it, Meyers says. "It was a major international incident. They didn't have to launch a bomb … all they had to do was [plant] malware. Emerging countries are probably going to see" how this type of attack is effective, he says.
+
+The malware used is more than ten years old, he says, and wiping doesn't require much technical expertise. "But the intrusion and recon shows some tradecraft," he says of the Sony attacks.
+
+Meanwhile, CrowdStrike's report recapped cyber attack campaigns it tracked in Iran and Russia, including Flying Kitten and Charming Kitten out of Iran, and Fancy Bear and Berserk Bear out of Russia.
+
+"There are a lot of different groups operating out of Iran," Meyers says. Flying Kitten is one of the most notable ones, he says. "They are targeting Western defense contractors and aerospace firms," he says.
+
+CrowdStrike's report also recaps the activities of several cyber espionage groups tied to Russia, including Energetic Bear, Fancy Bear, and Venomous Bear. "Although the Chinese calendar predicted that 2014 would be the Year of the Horse, in many respects 2014 has been the Year of the Bear in the cyber realm, with several high-profile Russia-based actors receiving public attention," the report says.

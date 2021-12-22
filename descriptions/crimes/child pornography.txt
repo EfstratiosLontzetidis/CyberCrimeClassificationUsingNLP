@@ -1,0 +1,871 @@
+Child pornography use is attracting increasing attention as a
+result of the availability and distribution of this content via the
+Internet. More individuals are being arrested for child pornography offenses and appear in clinical or criminal justice settings
+(Bates&Metcalf,2007;Motivans&Kyckelhahn,2007;Wolak,
+2011). It is very likely, however, that detected offenders representonlythe‘‘tipoftheiceberg’’andthatmostchildpornography
+users remain undetected. Data on child pornography traffic in
+peer-to-peer computer networks indicate that user numbers
+greatly exceed the number of individuals identified by arrest
+(Canwest News Service, 2009; Steel, 2009).
+This gap between activity and detection is partly because of
+limited resources: Internet crime investigations require specialized officers who are familiar with computer and online technologiesandaccesstoforensiccomputeranalysis;smallerpolice
+departments often lack such specialized resources (see Baines,
+2008). Even with more investigators, however, police inquiry is
+more likely to detect and arrest naı¨ve or careless online child
+pornography users (Jenkins, 2001). Security techniques such as
+file encryption, anonymous email and proxy services, and datawiping reduce the likelihood of discovery. Yet, a national
+American study suggested that only 20 % of those arrested for
+child pornography offenses used one or more of these methods
+(Wolak, Finkelhor, & Mitchell, 2005).
+Therefore, most of what we currently know about child pornography use is based on selected clinical or criminal justice
+samples(Seto,2013).Riegel(2004)surveyed290self-identified
+pedophilesandfoundthat95 %hadviewedchildpornographyat
+least occasionally. Similarly, Neutze, Seto, Schaefer, Mundt,
+and Beier (2011) recruited 155 self-identified pedophiles and
+hebephiles in a novel German prevention campaign and found
+that two-thirds had viewed child pornography at some point in
+life. In a survey of 307 online pornography users, 30 (approximately 10 %) had ever viewed child pornography (Siegfried,
+Lovely, & Rogers, 2008). Finally, among 223 individuals in an
+anonymous, non-representative online survey of pornography
+use, 41 (18 %) reported viewing child pornography but none had
+ever been arrested for child pornography offenses (Ray, Kimonis, & Seto, 2013).
+Large, representative community-based studies conducted in
+asensitivemannerareneededtoelucidatepopulationprevalence
+andprovidelessbiasedcorrelatesofchildpornographyuse.Data
+basedonclinicalorcriminaljusticesamplesmightbeaffectedby
+considerable selection biases; for example, clinical samples
+might be more distressed by their child pornography use or more
+likely to have comorbid psychopathology than communitydwelling child pornography users. Similarly, criminal justice
+samples may be more likely to engage in antisocial and criminal
+behavior than community samples of child pornography users.
+Potential Risk Factors for Child Pornography Viewing
+In the following sections, we briefly review what is known about
+potential risk factors for child pornography viewing, rationally
+organized into domains identified in sexual offending research.
+Because there is relatively little research on the psychological
+characteristics of child pornography offenders, we drew primarily on evidence accumulated from men who committed
+offenses involving sexual contact with children to derive our
+research hypotheses (Seto, 2008).
+Sexual Interest in Children
+There is an intuitive and empirically supported link between
+pedophilia and child pornography use; many self-identified pedophiles report child pornography use (Riegel, 2004) and a
+majority of child pornography offenders show greater sexual
+arousal to children than to adults in laboratory assessments
+(Blanchard et al., 2007; Seto, Cantor, & Blanchard, 2006).
+Similarly, self-reported interest in sex with children (not necessarily pedophilia, as the interest in sex with children could also
+reflect curiosity, sensation-seeking or other factors) may be
+associated with viewing child pornography.
+Excessive Sexual Interest and Behavior
+Research on community and clinical or criminal justice samples
+suggests that hypersexuality or excessive sexual preoccupation
+and behaviors are overrepresented in men who have committed
+sexual offenses. Community-based data also suggest that number of sexual partners and interest in casual, multiple sexual contactsdistinguishes sexually coercive men from non-coercive
+menandpredictssexualcoercioninlongitudinalresearch(Kjellgren, Priebe, Svedin, & La˚ngstro¨m, 2010; Lalumie`re, Chalmers,
+Quinsey, & Seto, 1996; Malamuth, Linz, Heavey, Barnes, &
+Acker, 1995). Frequent use of pornography among male adolescents is also associated with increased viewing of child pornography (Svedin, A˚ kerman, & Priebe, 2011).
+Personality
+Illegal sexual behavior is associated with certain personality
+characteristics. Individuals higher on aggressiveness, impulsivity, risk-taking or sensation-seeking are more likely to engage in
+both nonsexual and sexual criminal behavior and have earlier
+onset of sexual activity, more sexual partners, and more involvement in casual sex (Kjellgren et al., 2010; Lalumie`re, Harris,
+Quinsey&Rice,2005;La˚ngstro¨m&Hanson,2006;Seto,2008).
+As predicted, sensation seeking was associated with child pornographyviewinginthesurveybyRay,Kimonis,&Seto(2013).
+Peer Influences
+TheTheory ofPlanned Behavior(Ajzen, 1991,2001) has shown
+great utility in explaining many behaviors, including sexual
+behavior. Very briefly, behaviors are predicted by intentions to
+engageinthebehavior,whichinturnareinfluencedbyattitudes
+about the behavior and perceived (or subjective) norms about
+the behavior. For example, favorable attitudes towards depictions of adult–child sex and believing (correctly or not) that
+peers also hold favorable attitudes should increase intentions
+andlikelihoodofviewingadult–childsex.Moregenerally,peer
+influences have shown substantial explanatory power in models ofjuvenile delinquencyandyoungadultcriminality (Lipsey
+& Derzon, 1998).
+Sexual Victimization
+Sexualvictimization inchildhoodhasconsistently been found to
+be associated with sexual offending among adolescents and
+adults in criminal samples (Forsman, Santtila, Johansson, Sandnabba, & La˚ngstro¨m, 2013; Jespersen et al. 2009; Seto & Lalumie`re, 2010) and was moderately correlated with engaging in
+Arch Sex Behav
+123
+sexually coercive behavior in a prior study based on the present
+sample (Seto et al. 2010a). However, it remains unknown if it is
+also correlated with child pornography viewing. Recently, Babchishin, Hanson, and Hermann (2011) found that child pornography offenders, like contact sexual offenders, were more likely
+to have been sexually abused than were comparison subjects.
+However, child pornography offenders had lower rates of sexual
+victimization than contact sex offenders.
+Sexual Behavior Involving Children
+Finally, we expected childpornography viewingtobecorrelated
+with sexual behavior involving children (Seto, Hanson, &
+Babchishin, 2011). It might also be correlated with sexually
+coercive behavior more generally, but the latter association
+should be weaker than for behavior focusing on children. Consistent with this notion, Ray, Kimonis, & Seto (2013) found that
+mainstream pornography users who admitted viewing child pornography were more likely to report interest in sex with children
+and actual sexual contact with children than non-child pornography users.
+The Present Study
+We used data from a 2003 survey of 17–20 year old high school
+studentsinSweden(e.g., Kjellgrenetal.,2010;Setoetal. 2010a)
+to examine prevalence and risk factors for viewing pornography
+depicting adult–child sex. This is a more restrictive definition
+thanviewinganychildpornography,whichmightshowchildren
+only according to modal child pornography laws. We think the
+population-representative large sample and psychologically
+meaningful predictors we were able to examine in this study offset the criticism that child pornography viewing may have
+changed significantly during the past decade. Though the prevalence of child pornography viewing may have changed as a
+result of greater availability through more access to high-speed
+Internet connections, the psychological correlates are likely to
+remainstableoverthisperiodoftime.Forexample,ifindividuals
+who viewed other pornography were more likely to view child
+pornography in 2003, we would expect the same finding in a
+hypothetical survey conducted in 2013.
+We searched for possible correlates and risk factors for
+viewing child pornography among variables found to be linked
+tosexual(re)offendingagainstchildreninpreviousresearchwith
+identified sexual offenders, including general antisocial behavior, aggressiveness and risk-taking personality traits, substance
+misuse, sexual behavior, attitudes about adult–child sex, and
+sexual victimization (Eke, Seto, & Williams, 2011; Hanson &
+Morton-Bourgon, 2005; Whitaker et al., 2008). We drew on the
+sexual offending literature because there is relatively little work
+on child pornography offenders and undetected child pornography viewers. We also examined information about perceived
+social norms regarding child-related sexual behavior: if friends
+had viewed child pornography and friends’ attitudes about
+adult–child sex. Finally, we examined the association between
+viewing child pornography with the self-reported likelihood of
+any sexual contactwith a child and actually engaging in sexually
+coercive behavior with children age 12 or younger.
+Following contemporary models of sexual offending against
+children that emphasize antisociality and sexual deviance as
+explanatory factors (Lalumie`re et al., 2005; Seto, 2008, 2013;
+Ward,Polaschek,&Beech,2006),wepostulatedthathistoriesof
+antisocial and atypical sexual behavior would predict child pornography viewing. We also predicted that friends’ involvement
+with child pornography or perceptions of adult–child sex would
+be related to child pornography viewing. Last, we hypothesized
+that child pornography viewing would co-occur with viewing of
+other atypical pornography, particularly violent pornography
+and pornography depicting animals and actual sexual offending,
+generally and against children.
+Method
+Participants
+We used data fromthe Swedish data set of a largersurvey of both
+male and female participants across the Baltic Sea region. This
+Swedish student sample has been reported on previously (e.g.,
+Kjellgrenetal.,2010;Setoetal.2010a).Theoverallresponserate
+for the Swedish survey was 77 %; remaining students either
+declined to participate or were absent from school the day the
+survey was conducted. The participants for this study were 1,978
+male third-year high school students from Sweden. The majority
+of older adolescents attend school (91 %) and the absence rate is
+relatively low (average absence rate 13 % in 2005), as such participants were considered representative of the older adolescent/
+young adult population (Statistics Sweden, 2007; Uppsala kommun, 2005).
+On average, participants were 18 years old (SD=0.6, range,
+17–20) and most were born in Sweden (85 %). They were
+recruited from major urban areas, Stockholm (63 %) and Malmo¨
+(26 %), and more rural areas represented by Falko¨ping, Haparanda, and Lulea˚ (10 %). Both parents were employed for 65 %
+of the participants, one parentwas employed and one parent was
+not working for 21 %, neither parent was working for 7 %, one
+parent employed and the status of the other parent unknown for
+4 %,and3 %ofparticipantshadparentsclassifiedasother.Ofthe
+1,978 participants, 1,780 provided at least one parent’s occupation, coded using the International Socioeconomic Index
+(ISEI) (Ganzeboom, De Graaf, & Treiman, 1992) that could be
+usedtocomputesocioeconomicposition(SEP).Onaverage,participants had moderate to high SEP based on parental occupation
+(ISEI index, Mdn=54, range=16–88). A total of 7.1 % (n=
+127) had low SEP, 46.7 % (n=831) moderate, and 46.2 % (n=
+822) had high SEP.
+Arch Sex Behav
+123
+Measures1
+Nonsexual Antisocial Behavior and Substance Abuse
+Participants reported if they had ever engaged in any of the
+following acts: stolen something worth more than the equivalent
+ofapproximately150USD;committedburglarybybreakingand
+entering; stolen a car or motorcycle; engaged in violent conflict
+with ateacher;stayedawayfromhome overnight withoutparental consent; or been truant from school. Alcohol consumption
+(defined as at least half a beer, a glass of wine, or 4 cc of spirits)
+wasreportedonan8-pointLikertscalefrom1(notapplicable)to
+8(almostdaily);twoormoretimesaweekwaschosentoindicate
+‘‘frequent alcohol use.’’ Participants also indicated if they had
+ever used cannabis or‘‘hard’’drugs, defined as cocaine, heroin,
+amphetamine, or‘‘party’’drugs such as ecstasy.
+Sexual History
+Participants indicated if they ever had had sex with a female, a
+male (i.e., same-sex sexual contact), and their age at first sexual
+intercourse.Numberofsexualpartnerswasreportedona3-point
+Likert scale from 0 (not had intercourse), 1 (1 to 5 partners), or 2
+(6 or more partners); 6 or more partners was chosen to indicate
+‘‘many sexual partners.’’Participants also responded how often
+they felt sexual lust on a 5-point Likert scale from 1 (never) to 5
+(almost all the time); almost all the time was chosen to indicate
+‘‘frequent sexual lust.’’
+Personality
+Participants self-reported their aggressiveness and proneness to
+takerisksona6-pointLikertscale,rangingfrom1(notatalltrue)
+to 6 (completely true).
+Interest in Sex with Children
+Participants reported the likelihood they would have sex with a
+childiftheywerecertainthatno-onewouldfindoutandthatthey
+would not be punished. The three questions differed regarding
+the age ranges of the child: between 12 to 14 years; between 10
+and 12 years; and younger than 10 years. These items were not
+worded to be mutually exclusive; hence, participants interested
+in a 12-year-old child could endorse two items. Each question
+was rated on a 5-point Likert scale from 1 (very unlikely) to 5
+(very likely).
+Offense-Supportive Attitudes and Beliefs
+The first set of self-report questions consisted of 15 items
+regarding attitudes and beliefs about adult–child sex, rated on a
+5-point Likert scale from 1 (I disagree completely) to 5 (I agree
+completely).Sampleitemswere:‘‘Anadultandachildshouldbe
+allowed to have sex together if they both want to’’and‘‘There is
+nothingwrongwithteachingchildrenaboutsexbytouchingtheir
+sexual parts.’’
+A five-item rape myth scale assessed attitudes and beliefs
+about rape and sexual assault. Several of these items were
+adapted from Burt’s (1980) rape myths scale. Participants
+reported how much they agreed with each item on a 7-point
+Likert scalefrom 1 (strongly disagree)to 7 (strongly agree). Sample items were: ‘‘In the majority of rapes, the victim is promiscuous or has a bad reputation’’and‘‘Many guys have an unconscious wish to rape girls.’’
+Peer Influences
+Participants responded to two questions: ‘‘Some of my friends
+and acquaintances think sex with children is ok’’and‘‘Some of
+my friends have watched child pornography on the Internet,’’
+each rated on a 5-point Likert scale from 1 (not at all true) to 5
+(completely true). Each variable was dichotomized into not true
+at all and any other responses but not true at all; the latter was
+chosen to indicate any perceived peer interest in sex with
+children.
+Sexual Victimization
+A participant was considered to have experienced sexual coercion if he endorsed ever having been pressured or forced into
+sexual touching, masturbation, oral, anal, or vaginal intercourse,
+or someone exposing him/herself against the participant’s will.
+We were able to distinguish between coercion involving nonpenetrativeandpenetrativeacts,butnotbetweencoercioninvolving verbal pressure versus force, based on questions asking
+about different types of sexually coercive behavior. Participants
+who had experienced sexual coercion were also asked if there
+were multiple perpetrators the first time (mostly the only occasion) they were coerced and if they were 12 years old or younger
+the first time they were coerced.
+Pornography Viewing
+Frequencyofpornographyviewingwasratedona5-pointLikert
+scale ranging from 1 (once) to 5 (almost daily) and responses
+dichotomized into once to less than daily versus almost daily.
+Participants also reported if they had ever viewed pornography
+with depictions of adult–child sex (child pornography), depictionsofsexwithviolenceorforce,anddepictionsofsexbetween
+humans and animals, respectively. Since the latter specified
+pornography items did not include information about frequency
+of viewing, we could not distinguish individuals with a single
+instance of child pornography viewing from those who sought
+out such content twice or more. The child pornography item was
+narrowly defined, referred only to depictions of adult–child sex
+andthusexcludedothercontentthatcouldalsomeetlegalcriteria
+for child pornography (such as child–child sex or children in
+sexually explicit poses).
+Sexually Coercive Behavior
+Participants were considered to have been sexually coercive if
+they endorsed ever persuading someone into, using pressure, or
+forcing somebody to be sexually touched, masturbate them,
+have sexual intercourse, oral sex, or anal sex, or having exposed
+themselves. Because of the way these questions were worded, it
+was not possible to distinguish clearly coercive acts (forcing
+someone) from those that were less explicitly coercive (persuading or pressing someone into the act):‘‘Have you, yourself,
+dragged someone into, persuaded, pressured or forced someone
+to do sexual activities?’’This question was asked after a series of
+questions about being sexually coerced, where the phrase
+‘‘against your will’’was used to make it clear the questions
+referred to non-consenting activity (copies of the series of questions are available from the last author). All sexual activities
+involvedphysicalcontact,butsomewouldnotmeetlegalcriteria
+for a sexual crime (Kjellgren et al., 2010). We could further
+distinguish if the first (usually the only) sexually coercive act
+involved a person aged 12 years or younger.
+Parental Socioeconomic Position
+Parental SEP was measured using the ISEI (Ganzeboom et al.,
+1992). This measure estimates socioeconomic status from occupation and can range from 0–90; higher scores represent higher
+SEP. Participants’ mother’s and father’s ISEI was recorded and
+thehighestofthetwowasusedtorepresentSEP.LowerSESwas
+reflected in scores ranging from 0 to 29, moderate SES by scores
+30to59,andhigherSESwasrepresented byscoresrangingfrom
+60 to 90.
+Procedure
+We obtained permission to conduct the study by contacting the
+school director in each selected community. We then informed
+each high school principal about the project and approached
+students to participate in classes that represented half of the
+students attending all different vocational or academic school
+programs in each participating area. Students consented to take
+part after reviewing both oral and written information about the
+study. A research assistant visited each class and administered
+the survey after reminding the students about their anonymity.
+The students completed the questionnaires in their classrooms.
+The research assistant supervised the survey to ensure that the
+students did not influence each other and that the completed
+questionnaires were placed in unmarked envelopes that were
+individually sealed by each participant. Parents were not
+informed about the study, but approximately 90 % of participants were legally adults. Participants were not financially compensated for their time.
+All analyses were conducted using SPSS versions 19 and 20.
+The Human Research Ethics Committee of the Medical Faculty
+at Lund University, Sweden, approved the study.
+Results
+Prevalence of Child Pornography Viewing
+A total of 84 (4.2 %) of the 1,978 young men reported ever
+having viewed child pornography, defined as pornography with
+‘‘sex between adults and children.’’
+Correlates of Child Pornography Viewing
+Univariateassociations(reportedasoddsratios)betweeneachof
+the study variables and self-reported child pornography viewing
+are shown in Table 1. Effect sizes were also reported using
+Cohen’s (1988) d (converted from odds ratios, see Table 1 note).
+The number of participants contributing to the association and
+the proportion with a positive response for dichotomous variables are also shown in Table 1.
+Nonsexual Antisocial Behavior and Substance Abuse
+Reporting ever having committed theft over 150 USD, burglary,
+or having had a violent conflict with a teacher all had moderately
+strong univariate associations with child pornography viewing.
+Ever having been away from home overnight without parental
+consenthad aweakassociationwithchildpornography viewing.
+Substance abuse (e.g., frequent alcohol use, ever used cannabis,
+or ever used ‘‘hard’’ drugs), stealing a car or motorcycle, and
+being truant were not significantly associated with child pornography viewing.
+Sexual history
+Data on age at first sexual intercourse was available for 1,374
+participants.Themeanagewas15.59 years(SD=1.57).Reporting ever having sex with a male and frequent sexual lust had
+strong associations with self-reported child pornography viewing. Experiencing sexual lust almost all of the time was reported
+by 14.4 % of those who denied any child pornography viewing,
+compared to 36.9 % of those who reported any child pornography viewing. In contrast, ever having sex with a female, age at
+first sexual intercourse, and many sexual partners were all
+weakly and non-significantly associated with viewing child pornography.
+Personality
+The mean self-rating for aggressiveness was 2.66 (SD=1.42,
+N=1,953) whereas the mean rating for proneness to take risks
+was 4.50 (SD=1.17, N=1,958). Self-reported aggressiveness
+had a significant moderate association with reported child pornography viewing. Likelihood of taking risks, however, was not
+significantly related to child pornography viewing.
+Interest in Sex with Children
+These variables were dichotomized (i.e., very unlikely vs. any
+other response but very unlikely) because the responses were
+positively skewed; the latter was chosen to indicate any interest
+in sex with children. For each of the three questions, the large
+majority of the participants responded very unlikely. For a child
+aged12–14 years, 275participantsreported2,196 reported 3,90
+reported 4, and 100 participants reported 5 (very likely). For a
+childaged 10–12 years, 31participants reported 2,19 reported 3,
+5 reported 4, and 59 participants reported 5 (very likely). Finally,
+for a child aged less than 10 years, 13 participants reported 2, 8
+reported 3, 3 reported 4, and 59 participants reported 5 (very
+likely). Not surprisingly, all three variables representing selfreported interest in sex with children of various ages were
+strongly and significantly associated with child pornography
+viewing (Seto et al. 2010b). We also computed a variable where
+participants’ highest score of the three likelihood to sexual abuse
+a child was recorded. For this variable, 1,293 participants
+responded 1 (very unlikely), 275 responded 2, 193 responded 3,
+79 responded 4, and 115 responded 5 (very likely); 23 participants were missing data.
+Offense-Supportive Attitudes and Beliefs
+Two subscales were created after exploratory factor analysis
+(resultsavailablefromlastauthor).Someitemsinbothsubscales
+were reverse keyed; total scores were calculated such that higher
+scores indicated more positive attitudes and beliefs about adult–
+child sex. The child sex liberalismsubscale contained nine items
+pertaining to attitudes and beliefs about adult–child sex and
+summed total scores could range from 9 to 45 (M =17.1, SD=
+5.6, N=1,858). The seductive children subscale contained six
+items pertaining to attitudes and beliefs about children’s ability
+to initiate or consent to sex and total scores could range from 6 to
+30 (M =16.1, SD=3.9,N=1,838). Internal consistency for the
+full scale was moderate (a=.71), and low to moderate for the
+subscales (a=.65, child sex liberalism subscale; a=.55 seductive children subscale). The child sex liberalism subscale had a
+strong positive relationship with viewing child pornography
+whereas the seductive children subscale only exhibited a weak,
+significant association with child pornography viewing.
+Total rape myth scale scores could range from 5 to 35 with a
+higher score indicating greater endorsement of rape myths (M=
+13.7,SD=6.2,N=1,879).Theinternalconsistencyforthisscale
+wasmoderate(a=.73).Therapemythscalehadastrongpositive
+significant relationship with viewing child pornography.
+Peer Influences
+Having friends who think having sex with children is okay or
+who watched child pornography both had strong associations
+with reported child pornography viewing.
+Sexual Coercion Experience
+Being sexually coerced was weakly associated with self-reported child pornography viewing (marginally significant for any
+sexual abuse, statistically significant for contact sexual abuse).
+The likelihood of viewing child pornography was not further
+increased by young age at time of the first reported sexual
+coercion experience. The risk of viewing child pornography did
+increase,however,ifmultiple perpetratorswerereportedly
+involved.
+Pornography Viewing
+Beyond child pornography, frequent pornography use and ever
+havingviewedviolentpornographywerebothstronglyrelatedto
+child pornography viewing.
+Sexually Coercive Behavior
+In general, engaging in sexually coercive behavior was moderately to strongly associated with child pornography viewing;
+however, ever having exposed oneself did not reach statistical
+significance.
+Multivariate Modeling
+Stepwise backward logistic regression modeling was used to
+identify independent predictors of viewing child pornography
+fromeachofthefollowingsevenpredictorcategories:nonsexual
+antisocial behavior and substance abuse; sexual history; interest
+in sex with children; offense-supportive attitudes and beliefs;
+peer influences; other pornography viewing; and sexually coercive behavior. Variables were included only if they had at least a
+marginally significant (p\.10) univariate association with
+viewingchildpornography(seeTable 1).Thelogisticregression
+models for each of the predictor categories are shown in Table 2.
+Each stepwise backward logistic regression model had less
+than15 %missingdataand,asaresult,listwisedeletionwasused
+to exclude participants with missing data. Although listwise
+deletion can reduce sample size and hence lead to wider confidence intervals, it tends to yield less biased estimates of regression coefficients and more accurate SE estimates compared to
+pairwise deletion (Allison, 2009). For each stepwise backward
+logistic regression model, data were screened for multicollinearity using indicators from linear regression (tolerance and VIF)
+(Field, 2009) and by examining univariate correlations between
+predictors (correlations[.60 indicate multicollinearity). Multicollinearity was observed for the interest in sex with children
+domain: likely to have sex with a child under age 10 years and
+likely to have sex with a child aged 10–12 years were too highly
+correlated to be included in the same model,r=.85. Hence, we
+computedacompositevariablewhereparticipantswhoendorsed
+anything but unlikely on either variable received a score of 1
+(likelytohavesexwithachildage12orless).Themodelswere
+also examined for outliers using standardized residuals, Cook’s
+distance, and DF-Beta scores (Field, 2009; Tabachnick & Fidell, 2007) and no problematic cases were found. Finally, linearity of the logit was satisfied for all continuous variables, suggesting the assumption of linearity was satisfied.
+We did not conduct a stepwise backward logistic regression
+for the personality domain because aggressiveness was the only
+variable from this domain to be included in the final multivariate
+Table 2 Stepwisebackwardlogisticregressionmodelswiththestrongestremainingindependentpredictorsofchildpornographyviewingbydomainamong
+17–20 year-old men in Sweden
+Model by domain B SE Adjusted OR 95 % CI R2 N
+Nonsexual antisocial behavior and substance abuse .02 1,908
+Ever theft over 150 USD –
+Ever committed burglary 1.00 .28 2.71*** 1.56–4.73
+Ever violent conflict with teacher –
+Ever away from home overnight without parental consent –
+Sexual history .05 1,891
+Ever had sex with a male 1.16 .46 3.20* 1.30–7.86
+Frequent sexual lust 1.24 .24 3.47*** 2.18–5.53
+Interest in sex with children .13 1,951
+Likely to have sex with a child aged 12–14 1.88 .28 6.52*** 3.75–11.35
+Likely to have sex with a child aged 12 or lessa .78 .30 2.19** 1.23–3.90
+Offense supportive attitudes and beliefs .12 1,721
+Child sex liberalism .12 .02 1.12*** 1.08–1.17
+Seductive children -.07 .04 .93* .87–.99
+Rape myths .07 .02 1.07*** 1.04–1.11
+Peer Influences .16 1,924
+Friends think sex with children is OK 1.11 .29 3.04*** 1.72–5.36
+Friends watch child pornography 1.69 .25 5.42*** 3.34–8.80
+Pornography viewing .30 1,827
+Frequent pornography use 1.40 .27 4.07*** 2.42–6.84
+Ever viewed violent pornography 2.78 .26 16.14*** 9.79–26.61
+Sexually coercive behavior .03 1,978
+Ever exposed yourself –
+Any coercive sexual touching 1.10 .29 3.00*** 1.70–5.29
+Any coercive masturbation –
+Any coercive sexual intercourse –
+Any coercive oral sex –
+Any coercive anal sex 1.12 .54 3.06* 1.06–8.83
+NoteSamplesizesvariedbecauseofmissingdata.Weusedbackwardsstepwiseeliminationofpredictorsbydomainusingalikelihoodratiocriterionofp\.10;
+thatmeansamodelincludingallunivariatelysignificantpredictors(atp\.10;Table 1)wascomparedtoamodelwithapredictorremoved.Iftheremovalofthe
+predictor significantly changed how the model fit the data at p\.10 then the predictor was retained (Field, 2009)
+a Likelytohavesexwithachildaged12orlessisacompositevariablerepresentingLikelytohavesexwithachildaged10orlessandLikelytohavesexwitha
+child aged 10–12, which were combined due to issues with multicollinearity
+* p\.05, ** p\.01, *** p\.001
+Arch Sex Behav
+123
+logistic regression model. Similarly, a stepwise backward
+logistic regression was not conducted for the sexual victimization domain because any sexual victimization was the only
+variable from this domain selected for inclusion in the final
+multivariate model. The‘‘any sexual victimization’’variable
+encompassed any sexual victimization involving contact and,
+therefore, was selected for the final multivariate logistic regression model. Additionally, several variables were not included in
+multivariate logistic regression models because of small sample
+sizes:‘‘having multiple perpetrators at first sexual victimization’’
+and being‘‘12 years or younger at first sexual victimization’’had
+smallresultingsamplesizesbecausethesevariablesrequiredthat
+participantsself-reportedsexualvictimization(n=302and296,
+respectively).Similarly,havingachildvictimunderage12 years
+required that the participant reported having committed a sexual
+offense, and the sample size for this variable (n=157) was also
+too small to include in the logistic regression modeling.
+Basedontheresultsofthesetoflogisticregressionmodelsfor
+each predictor domain, the following 16 variables were selected
+to include in the final logistic regression model: ever committed
+burglary, ever had sex with a male, frequent sexual lust, aggressiveness, likely to have sex with a child aged 12–14, likely to
+have sex with a child 12 or less, child sex liberalism, seductive
+children, rape myths, friends think sex with children is OK,
+friends watch child pornography, frequent pornography use,
+ever viewed violent pornography, any sexual victimization, any
+coercive sexual touching, and any coercive anal sex.
+Multivariate Logistic Regression Model
+Forthefinalmultivariatelogisticregressionmodel,23.6 %ofthe
+sample had missing data. Little’s MCAR test was non-significant, v2
+(25)=13.32, p=.97, suggesting data were missing completely at random. Listwise deletion was used for missing data
+and this resulted in a final sample size of 1,511 participants.
+Again, data were screened for multicollinearity and outliers and
+no problematic cases were identified. Linearity of the logit was
+satisfiedforallofthecontinuousvariables.Thefinalmultivariate
+logistic regression model significantly predicted child pornography viewing better than the constant only model, v2
+(16)=
+220.53, p\.001, n=1,511. Hosmer and Lemeshow’s test was
+non-significant, v2
+(8)=3.71, p=.88, indicating good model fit
+(Tabachnick & Fidell, 2007). The model accounted for just
+under half (Nagelkerke’s R2=.42) of the variance in viewing
+child pornography, producing an overall correct classification
+rate of 95.4 %. The model correctly classified 98.9 % of nonchild pornography users and 26.0 % of child pornography users,
+indicating high specificity but low sensitivity.
+Table 3 shows that seven of the included 16 variables significantly predicted viewing child pornography in the final
+logistic regression model: (1) ever had sex with a male (n=38
+respondedpositively),(2)likelytohavesexwithachildaged12–
+14 (n=548 responded positively), (3) likely to have sex with a
+child 12 or less (n=94 responded positively), (4) seductive
+children subscale (n=747 responded positively, that is, greater
+than the median score of 16), (5) friends watch child pornography (n=238 responded positively), (6) frequent pornography
+use (n=168 responded positively), and (7) ever viewed violent
+pornography (n=197 responded positively). Of note, the significant association between the seductive children subscale
+scores and viewing child pornography was in the opposite directionthanexpected.Also,‘‘likelytohavesexwithachildaged12–
+14’’and‘‘ever viewed violent pornography’’were attenuated to
+about half their predictive strengths from the category-by-category analyses (Table 2). Several putative predictors from each
+predictor category (Table 2) were substantially attenuated in the
+final model: frequent sexual lust, rape myths, friends think sex
+Table 3 Multivariate logistic regression model with the strongest independent predictors by domain (from Table 2) of child pornography viewing
+among 1,511 17–20 year-old men
+Correlates by domain B SE Adjusted
+OR
+95 % CI
+Nonsexual antisocial behavior and substance abuse
+Ever committed burglary 0.43 0.41 1.54 0.69–3.44
+Sexual history
+Ever had sex with a male 1.51 0.73 4.53* 1.08–19.00
+Frequent sexual lust 0.28 0.34 1.32 0.68–2.58
+Personality
+Aggressiveness 0.07 0.10 1.07 0.88–1.31
+Interest in sex with children
+Likely to have sex with
+a child aged 12–14
+1.29 0.37 3.64*** 1.76–7.52
+Likely to have sex with
+a child aged 12 or less
+0.88 0.41 2.41* 1.08–5.42
+Offense supportive attitudes and beliefs
+Child sex liberalism 0.04 0.03 1.04 0.98–1.10
+Seductive children -0.10 0.04 0.90* 0.84–0.98
+Rape myths -0.01 0.02 0.99 0.94–1.04
+Peer influences
+Friends think sex with
+children is OK
+0.21 0.37 1.23 0.60–2.54
+Friends watch child pornography 1.40 0.33 4.05*** 2.13–7.71
+Sexual victimization
+Any sexual victimization -0.43 0.36 0.65 0.32–1.33
+Pornography viewing
+Frequent pornography use 1.37 0.33 3.92*** 2.06–7.45
+Ever viewed violent pornography 2.08 0.31 8.20*** 4.38–14.69
+Sexually coercive behavior
+Any coercive sexual touching -0.21 0.41 0.81 0.37–1.80
+Any coercive anal sex 0.73 0.84 2.07 0.40–10.68
+Note We used listwise case deletion for missing data
+* p\.05, ** p\.01, *** p\.001
+Arch Sex Behav
+123
+with children is okay, aggressiveness, and any sexual victimization (Table 1).
+Child Pornography Correlates Scale
+We were interested in creating and cross-validating a Child
+Pornography Correlates Scale that could be potentially useful
+for future researchers interested in characterizing the likelihood that an individual has viewed child pornography. Hence,
+sixofthesevensignificantpredictorswereusedtocreateaChild
+Pornography Correlates Scale. Theseductive children subscale
+was not included because of its unexpected, inverse association
+with child pornography viewing. Responses on the six significant dichotomous predictors were summed to create a total score
+ranging from 0 to 6, with higher scores reflecting more positive
+responses.Tosimplifyscoringandmaximizepotentialgeneralizability to other samples (since the scale was constructed and
+validated on the same sample), the items were not weighted
+(e.g.,Grann&La˚ngstro¨m,2007).ChildPornographyCorrelates
+Scale scores were only computed for participants with complete
+data on all predictors.
+Participants who had not viewed child pornography had a
+mean score of 0.73 (SD=0.90, n=1,665) and participants who
+had viewed child pornography had a mean score of 2.74 (SD=
+1.18, n=81) on the Child Pornography Correlates Scale. Not
+surprisingly, the construction procedure led to a significant and
+large mean difference between participants who had viewed
+child pornography and those who had not, d=2.20, 95 % CI
+(1.96, 2.43). The Area Under the ROC curve (AUC) was .90,
+95 %CI(.87,.93),p\.001,indicating thescalewasverygood at
+discriminating those who had viewed child pornography from
+thosewhohadnot.2
+Figure 1showstheproportionofparticipants
+who had viewed child pornography across Child Pornography
+Correlates Scale scores. The association between Child Pornography Correlates Scale score and child pornography viewing
+was linear, as expected.
+We also computed the sensitivity, specificity, positive predictive values, and negative predictive values for two potential
+cut-off scores for the Child Pornography Correlates Scale. For a
+cut-off score of 3 (i.e., participants who scored 3 or higher were
+classifiedashighriskforchildpornographyviewing),sensitivity
+was 59 %, specificity 95 %, the positive predictive value was
+36 %, and the negative predictive value was 98 %. For a cut-off
+score of 4, sensitivity was 26 %, specificity 99 %, the positive
+predictivevaluewas60 %,andthenegativepredictivevaluewas
+96 %. Cross-Validation of the Child Pornography Correlates Scale
+We cross-validated the Child Pornography Correlates Scale
+using a separate sample of 1,748 male third year students from
+Norway. Participants were recruited from 41 different high
+schools in the 9 largest urban areas of Norway. Data for this
+sample were taken from the Norwegian component of the same
+Baltic Sea region survey as the Swedish participants (response
+rate 82 %; see Seto et al. 2010a). On average, Norwegian participants were 18 years of age (SD=0.60, range, 17–20 years).
+Ofthese 1,748 participants, 98 (5.6 %) had viewed child pornography.
+The computation of Child Pornography Correlates Scale
+scores for the Norwegian sample differed slightly from the
+Swedish sample. Norwegian participants were only asked to
+respond to one question regarding the likelihood that they would
+have sex with a child (age unspecified), if they were certain that
+no one would find out and that there would be no negative
+consequences. Of the 1,748 participants, 1,387 reported 1 (very
+unlikely), 126 reported 2, 89 reported 3, 59 reported 4, and 87
+reported 5 (very likely). Thus, five rather than six variables were
+included in the computation of scale scores. As for the Swedish
+sample, all variables were recoded into dichotomous predictors
+where a score of one represented a positive response. Responses
+onthefivepredictorsweresummedtocreateatotalscoreranging
+from0to5,withhigherscoresreflectingmorechildpornography
+viewing riskfactors. Again,Child Pornography CorrelatesScale
+scores were only computed for participants with data on all predictors (N=1,748).
+Participants who had not viewed child pornography had a
+mean score of 0.49 (SD=0.75, n=1,650) compared to 2.07
+(SD=1.19, n=98) for those who had. Once more, there was a
+significant and large mean difference between participants who
+had viewed child pornography and those who had not, d=2.02,
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0123456
+Percentage of Participants
+Who Viewed Child Pornography
+Score on Child Pornography Correlates Scale
+n= 10
+n= 27
+n= 17
+n= 3
+n=1
+n= 2
+n= 21
+Fig. 1 Proportion of 81 participants who viewed child pornography by
+score on the Child Pornography Correlates Scale based on 6 independent
+predictors obtained from a multivariate logistic regression model (from
+Table 3). Three participants who admitted viewing child pornography had
+missing data on one of the Child Pornography Correlates Scale items
+2 AUC=.90,95%CI[.87,.94]iflikelytohavesexwithachildaged12to14
+and likely to have sex with a child 12 years or younger were combined into
+one item on the Child Pornography Correlates Scale in the Swedish sample.
+Arch Sex Behav
+123
+95 % CI (1.08, 2.24). The AUC was .87, 95 % CI (.83, .90),
+p\.001, indicating the modified scale was very good at discriminatingthosewhohadviewedchildpornographyfromthose
+who had not in a construction-independent sample.
+Discussion
+We examined the correlates of child pornography viewing in a
+population-representative sample of almost 2,000 young men in
+Sweden. Many of our predictions were supported. Child pornographyviewingwassignificantly,univariatelyassociatedwith
+aspects of antisocial behavior, sexual history, viewing of other
+atypicalpornography,andsubjectivepeercharacteristicsregarding adult–child sex. The strongest correlate by far was viewing
+violent pornography, indicating a strong association of different
+types of atypical pornography use. This might reflect the cooccurrence of atypical sexual interests for children and sexual
+violence, hypersexuality or other shared causes (third variables
+or confounders) of atypical pornography use. Self-reported
+interest in having sex with a child also had a strong association
+with self-reported child pornography viewing. These results
+were consistent with prior research by Seto et al. (2006)
+including surveys of self-identified pedophiles and hebephiles
+suggesting strong associations between sexual interest in children and child pornography viewing (see Seto, 2010).
+Regression analyses identified seven variables that independently contributed to the prediction of child pornography viewing. All of these predicted child pornography viewing in the
+expecteddirectionexceptforapuzzlingfindingfortheseductive
+children subscale;individualswith higherscoreswere lesslikely
+to view child pornography than individuals with lower scores.
+However, the effect size was weak, b=–.10, opposite to the
+weak positive univariate association, r=.05, at p\.05. Hence,
+thismayrepresentachancefinding,particularlysincetheoretical
+models and past studies would predict a positive association.
+Putting this puzzling variable aside, we created a simple correlates scale of the six remaining unweighted dichotomized variables. There was a clear and positive relationship between the
+Child Pornography Correlates Scale and the likelihood of child
+pornography viewing, ranging from 0 % at the lowest possible
+score to 100 % at the highest. An adapted version of this scale
+(minus one item) was cross-validated in a similar sample of
+young Norwegian men, producing very comparable results. The
+Child Pornography Correlates Scale could be useful in future
+research when investigators want to characterize the likelihood
+that someone has viewed child pornography without directly
+asking the question, because child pornography viewing is illegal in most jurisdictions whereas none of the scale items pertain
+to criminal behavior. Individuals with a high score on the scale
+are more likely to have viewed child pornography whereas those
+with a low score are unlikely to have done so.
+The results were largely consistent with current models of
+sexual offending, which could include illegal pornography use
+(Lalumie`re et al., 2005; Seto, 2008; Ward et al., 2006). In these
+models,sexualoffendingisexplainedbyantisocialityandsexual
+deviance, where individuals high in antisocial tendencies and
+high in atypical sexual interests and/or sexual preoccupation are
+the most likely to engage in criminal sexual behavior. Our correlational results support that some child pornography viewers
+may engage in this behavior because they are risk-takers and
+curious about the taboo and illegal content; some, however, may
+be motivated by a sexual interest in children or young adolescents (Seto et al., 2006, 2010a, 2010b). The association between
+experiencing sexual coercion and child pornography viewing
+was also consistent with the idea that adverse early sexual
+experiences somehow affect psychosexual development and
+increases the likelihood of sexual interest or behavior involving
+children. Two recent meta-analyses suggest that sexual abuse
+history is associated with sexual offending in both adolescents
+and adults (Jespersen et al., 2009; Seto & Lalumie`re, 2010). This
+also held for self-reported sexual coercion history and coercive
+behaviorintheSwedishandNorwegiansamplesweexaminedin
+thisstudy(Setoetal.2010a),aswellasrecentanalysesofFinnish
+twin data that also accounted for familial confounding of the
+victimization–victimizer association (Forsman et al., 2013).
+These correlational studies are consistent with causal explanations, but further research using more informative study designs
+is needed. Sexual coercion experience did not remain a unique
+predictor of child pornography viewing in the multivariate
+analyses, suggesting that any potential effects of sexual abuse
+may be mediated by its effects on sexual or antisocial interests or
+behaviors.
+Limitations
+First, data on age of onset, frequency, and intensity for child
+pornographyviewingwerenotavailable,becausethesurveywas
+abroadpopulationsurveyofsexualityratherthanaspecificstudy
+of child pornography viewing. The definition was sufficiently
+broad that a single exposure to pornography depicting an adult
+and someone who appeared to be under the legal age of consent
+(15 years in Sweden) would be viewed as a positive response.
+Participants did not necessarily engage in recurrent child pornography viewing that is more characteristic of identified child
+pornography offenders. Others could have endorsed the item
+because they viewed pornography depicting adults interacting
+with underage teens, which would meet the legal definition of
+childpornography.Giventheexpectedcorrespondencebetween
+sexual interests and pornography content (Seto et al., 2006), as
+well as the fact that child pornography viewing correlated with
+self-reported sexual interestin children ages 14 and younger, our
+results indicates at least some participants had viewed illegal
+child pornography involving younger minors. Because our
+Arch Sex Behav
+123
+results were generally consistent with theory and past research
+on child pornography or sexual offending, we expect the associationstobeevenstrongerifwehadhadastrongermeasureofchild
+pornographyviewingthatreferredtointentional,recurrentviewing
+of pornographic content depicting children ages 14 or younger.
+Second, cross-sectional surveys preclude strong causal inferences from observed associations, in this case between predictor
+variables and reported child pornography viewing. However,
+our results agree substantially with findings from different lines
+of prior research, usually with smaller and more selected clinical
+samples, suggesting that antisociality and sexual deviance have
+substantial explanatory value.
+Another limitation of the survey data reported here were
+recall and other self-report biases, given the sensitive nature of
+many items. We have confidence in our results, however,
+because the survey was anonymous and primarily covered less
+sensitive aspects of sexuality, the survey achieved a high
+responserate, and participantsdid endorse items thatdescribed
+behaviors that are illegal in Sweden.
+Future Directions
+Improved understanding of causal risk factors is important so
+that prevention and intervention efforts appropriately address
+truly causal mechanisms, not correlates or epiphenomena.
+Hence, future studies should use more etiologically informative
+designs. Experimental work is obviously ethically impossible,
+but prospective designs using better measures of constructs of
+interest would allow more sophisticated modeling of putative
+causal relationships. Further correlational research using contemporary samples and better measures would also be informative, because child pornography viewing and the strength of
+correlations (though probably not the correlates themselves)
+may have changed since the survey data analyzed in this study
+were collected.
+The current meta-analysis compared the characteristics of online child pornography-only offenders, typical (offline) sex offenders against children, and offenders with both child pornography and contact sex offences against children (mixed). Based on 30 unique samples (comparison ns ranging from 98 to 2,702), the meta-analysis found key differences between groups. Offenders who committed contact sex offences were more likely to have access to children than those with only child pornography offences. In contrast, offenders who used the internet to commit sexual offences had greater access to the internet than those with contact sex offenders. Differences between the groups, however, were not limited to differential opportunities. Sex offenders against children and mixed offenders were found to score higher on indicators of antisociality than online child pornography offenders (CPOs). CPOs were also more likely to have psychological barriers to sexual offending than sex offenders against children and mixed offe
+nders (e.g., greater victim empathy). Mixed offenders were found to be the most pedophilic, even more than CPOs. The findings suggest that offenders who restricted their offending behavior to online child pornography offences were different from mixed offenders and offline sex offenders against children, and that mixed offenders were a particularly high risk group.
+he internet is commonly used for sexual purposes. Approximately three quarters of men and half of women have intentionally viewed pornography over the internet (Albright, 2008). For some individuals, however, the use of the internet for sexual purposes becomes problematic and interferes with key aspects of their lives, such as career, psychological and sexual well-being, and offline intimate relationships (Brand et al., 2011; Green, Carnes, Carnes, & Weinman, 2012; Levin, Lillis, & Hayes, 2012; Putnam, 2000). In the general public, the prevalence of such problematic online sexual behaviors has been found to range from 1 to 6.5 % (Cooper, Delmonico, & Burg, 2000; Cooper, Griffin-Shelley, Delmonico, & Mathy, 2001; Daneback, Cooper, & Månsson, 2005).
+
+A minority of individuals with problematic online sexual behaviors will commit online sexual offences (Mitchell & Wells, 2007). Criminal sexual behaviors include viewing illegal pornography, sexual solicitation of minors, prostitution, and indecent exposure. The most concerning type of internet criminal behavior victimizes children and a minority of individuals with problematic online sexual behaviors have committed such crimes. For example, 13 % of those classified as having problematic online sexual behaviors have viewed child pornography and 6 % have sexually exploited a minor (Mitchell & Wells, 2007). Many measures of problematic online sexual behavior include questions about illegal activities (e.g., Internet Sex Screening Test: Delmonico & Miller, 2003; Cybersex Addiction Screening Test: Sexual Recovery Institute, 2013) and viewing child pornography or sexually soliciting minors has been identified as one of the 10 indicators that someone may have problematic online sexual behaviors (Carnes, Delmonico, & Griffin, 2007). Of course, internet preoccupation is not a necessary condition for online child pornography or sexual solicitation of minors. On average, online sex offenders scored in the middle range of an internet preoccupation scale (e.g., Lee, Li, Lamade, Schuler, & Prentky, 2012). Online sex offenders, however, have greater internet preoccupation compared to typical (offline) sex offenders against children (e.g., Lee et al., 2012).
+
+Viewing Child Pornography Over the Internet
+The number of detected online sex offenders has drastically increased since the early 2000s (Dauvergne & Turner, 2010; Middleton, Mandeville-Norden, & Hayes, 2009; Wolak, 2011), as have the resources available for detecting these online sexual offences (Hamilton, 2012). Most detected online sex offenders are convicted of downloading or possessing child pornography (Wolak, 2011). There has been much debate and research examining the extent to which online child pornography offenders (CPOs) also have a history of contact sex offences against children. One reason for the expectation that online CPOs also commit contact sex offences is that the prevalence of sexual interest in children is higher among CPOs than among typical, contact sex offenders against children (Babchishin, Hanson, & Hermann, 2011). In fact, a history of child pornography offences is a valid diagnostic indictor of pedophilia (Seto, Cantor, & Blanchard, 2006).
+
+Given that sexual interest in children is one of the best predictors of sex offences against children (e.g., Hanson & Morton-Bourgon, 2005), it would naturally follow that online CPOs would also be at risk for offline sexual offences against children. However, studies consistently find that the proportion of CPOs who reoffend with a contact sex offense is lower than the rates typically observed for sex offenders against children (Seto, Hanson, & Babchishin, 2011). Seto et al. found approximately 1 % official recidivism rates for contact sexual offences and a 3 % recidivism rate for child pornography offences after a follow-up of up to 6 years.
+
+Not all CPOs, however, limit their sexual offending to the internet. One out of eight CPOs will have an officially recorded contact sex offense against a child, and about half will self-report committing a contact sex offense (Seto et al., 2011). Those who have both child pornography and contact offences (i.e., mixed offenders) have higher recidivism rates for contact sex offences (6 %) than offenders with solely online child pornography offences (0.2 %) (Goller, Graft, Frei, & Dittmann, 2010; Graf & Dittmann, 2011). The 5-year recidivism rate of mixed offenders (6 %) is comparable to the rate for offline sex offenders against children (13 %) (Harris & Hanson, 2004).
+
+Are Online Child Pornography Offenders a New Type of Offender?
+A parsimonious explanation of online CPOs would be that the same factors that motivate offline sexual offending also motivate online sexual offending. In addition to sexual deviancy, it is also well established that antisociality is a major risk factor of sexual offending against children (Hanson & Bussière, 1998; Quinsey, 1986; Seto, 2008, 2013). Antisociality refers to a set of personality traits and attitudes that indicate a disregard for societal norms and the safety of others, a lack of remorse, impulsivity, and persistent rule breaking (American Psychiatric Association, 2013).
+
+Although sexual deviancy and antisociality are important motivational factors for sexual offending behaviors, not all motivated individuals commit sexual offences. One explanation for the link between motivation and actual offending is provided by routine activity theory (Cohen & Felson, 1979). This theory, now the dominant theory within criminology, posits that criminal behavior requires not only motivated offenders, but suitable targets and a lack of supervision. Applying this theory to online offenders, the largely unregulated internet environment provides both conditions (opportunity and lack of supervision) for motivated offenders to download or distribute child pornography. Indeed, the rates of online sexual crimes, and child pornography offences in particular, have increased substantially with the increasing use of the internet (Dauvergne & Turner, 2010; Middleton et al., 2009; Wolak, 2011). However, not all individuals have equal access to the internet. Internet use is positively correlated with young age, high education, and high income, as well as gender (male) and race (Caucasian) (Zickuhr & Smith, 2012).
+
+We expected that access to the internet, in addition to antisociality and sexual deviancy, are core explanatory factors of online child pornography offences (see also Seto, 2013). Routine activity theory would posit that those motivated to commit sexual offences and who have access to the internet are those most likely to commit online sexual offences. In contrast, motivated individuals who have limited access to the internet, but have access to children, are relatively more likely to commit contact (offline) sex offences. Meanwhile, it was expected that those who were motivated to commit sexual offences and have access to both the internet and children would be mixed offenders.
+
+There are also reasons to believe that CPOs are a distinct group of sex offenders (e.g., Babchishin et al., 2011). Specifically, the ease of access to online child pornography may contribute to a new group of offenders who succumb to temptations that they would have otherwise controlled. The association between sexual fantasy and action, however, is not absolute. Some online CPOs would be expected to restrict their offending behaviors to the internet. Indeed, despite being motivated to commit sexual offences against children (e.g., pedohebephilia), offenders who restrict their offences to online child pornography seem to have greater barriers to offending, such as less antisocial tendencies (Long, Alison, & McManus, 2013), greater victim empathy, and greater self-control (Elliott, Beech, & Mandeville-Norden, 2012). Antisocial individuals are more likely to act out sexual fantasies involving criminal activity (e.g., sexual assault) than less antisocial individuals (Williams, Cooper, Howell, Yuille, & Paulhus, 2009) and CPOs tend to be less antisocial than contact sex offenders against children (Babchishin et al., 2011). As such, CPOs may engage in sexual fantasy about children, appreciate that it is morally wrong, and not act on it even when the opportunity presents itself (Elliott & Beech, 2009; Elliott, Beech, Mandeville-Norden, & Hayes, 2009).
+
+Such a finding would parallel sex research in the general population. Despite half of male undergraduate students reporting at least one fantasy involving criminal sexual acts (e.g., frotteurism, voyeurism, sexual assault), the propensity to act out these fantasies was much lower (20 %), with those scoring higher on psychopathy being the most likely to act out their deviant fantasies (Williams et al., 2009). The distinction between fantasy and action has also been applied to both online solicitation offenders and online CPOs. Online solicitation offenders have been divided into those who restrict their online offending behavior to the internet (fantasy-driven solicitation offenders) and those who actively set meetings with minors to act out their deviant fantasies (contact-driven solicitation offenders) (Briggs, Simons, & Simonsen, 2011). Similarly, CPOs have been divided into those who use child pornography as part of contact offences, such as victim grooming (contact-driven), and those who are motivated by deviant sexual interest without intent to commit a contact offense (fantasy-driven) (Merdian, Curtis, Thakker, Wilson, & Boer, 2013). As such, it has been hypothesized that the link between sexual fantasy and action may differ across different sex offender types.
+
+Purpose of the Current Meta-Analysis
+A better understanding of the similarities and differences between online-only, mixed, and traditional (i.e., offline-only) sex offenders against children is needed. Although there have been considerable advances in recent years, empirical and theoretical advancement on internet sexual offending has been limited by samples including offenders with different offending behaviors. Specifically, studies have combined child pornography-only offenders with sex offenders who have both contact and child pornography offences. Babchishin et al. (2011) presented the first meta-analysis that reviewed the characteristics of internet offenders. Compared to offline sex offenders, online sex offenders were more likely to have demographic characteristics correlated with internet use (e.g., Caucasian, young), greater barriers to acting out sex offences (e.g., greater victim empathy), and had greater sexual deviancy.
+
+The meta-analysis of Babchishin et al. (2011), however, compared online sex offender groups to offline sex offender groups in general and, as such, did not examine differences within online sex offender groups. Outstanding questions remain. Are there key differences between CPOs and offenders who commit both child pornography and contact sex offences? Are offenders who commit both online and offline sex offences different than those who solely commit contact sex offences? Since Babchishin et al. (2011), there are now additional studies available allowing for a more thorough examination of the characteristics of online sex offenders than was previously available.
+
+Method
+Study Selection
+An initial collection of studies was retrieved through a previous internet sex offender meta-analysis (Babchishin et al., 2011). Online searches for additional studies were conducted through PsycINFO, Dissertations and Thesis Fulltext, National Criminal Justice Reference Service, Web of Science, and Medline using the following search terms: internet, online, cyber*, sex offend*, child molest*, child abuse imag*, imag* of child abuse, lur*, groom*, travel*, solicit*, child porn*, character*, and trait. Studies were also found by reviewing presentations given at conferences held by the Association for the Treatment of Sexual Abusers, the International Association for the Treatment of Sex Offenders, and the Congrès international francophone sur l’agression sexuelle. Additional studies were also found by reviewing the reference lists of studies, contacting researchers, and utilizing Google Scholar. The search ended January 31, 2013 and resulted in 30 eligible samples (2 French and 28 English studies).
+
+Table 1 provides basic descriptive information for each study. Approximately half of studies were published (k = 17; 57 %) and studies were produced between 2003 and 2013 (Mdn = 2011). Most offenders were sampled from the United States (k = 9), followed by Canada and the United Kingdom (both k = 7). Of the 30 unique samples, 29 reported on CPO (N ranged from 10 to 459, Mdn = 38, Total N = 2,284), 23 reported on sexual offenders against children (SOC) (N ranged from 10 to 526, Mdn = 47; Total N = 2,320), and 16 reported on mixed offenders (N ranged from 10 to 231, Mdn = 52; Total N = 1,086). Most samples grouped offenders into their respective groups based on official charges or convictions (i.e., 81 % of mixed offenders, 91 % of SOC, and 94 % of CP offenders); some studies also used self-report and other sources, such as accusations (17 % of SOC, 23 % of CP, and 38 % of mixed offenders). All samples were exclusively of men, and most were derived from community settings (60 %; k = 18) or a combination of community and institutions (20 %; k = 6).
+Coding Procedure
+Each study was coded with a standard list of variables and explicit coding rules (coding manual available upon request). The first and third author coded all studies separately and generated consensus ratings. Ratings had two components: information describing the study (one form per study) and effect size information (one form per effect size). To be included in the current meta-analysis, the study had to include at least two of the following groups: CPO, offline SOC, or mixed offenders (i.e., committed both online and offline offences against children). Recent samples (post 2000) of CPOs were included because it was presumed that a majority of these offenders would have used the internet or other computer technology in their offences. The study had to report on at least one of the characteristics targeted by this review, which included demographic or psychological variables. At the end of coding, only variables with three or more studies were meta-analyzed. The study also needed to include sufficient statistical information to calculate an effect size (Cohen’s d).
+
+Interrater Reliability
+Interrater reliability analyses were based on 17 studies. The raters coded 456 common effect sizes, with high levels of agreement (absolute intra-class correlation [ICC] based on single rater = 0.94). Fourteen effect sizes were identified by one rater but not the other. Interrater reliability for items was first examined for all variables in the coding manual (although not all are reported in the current meta-analysis). Of the variables reported in the current meta-analysis, interrater reliability ranged from 78 to 100 % agreement for categorical variables (Mdn = 94 %, n = 13; κ ranged from 0.65 to 1.00, Mdn = 0.89, n = 9) and ICC values ranged from 0.97 to 1.00 for continuous variables (Mdn = 0.999; n = 4).
+
+Overview of Analyses
+Effect Size
+The effect size indicator was the standardized mean difference, Cohen’s d, defined as follows: d = (M 1 − M 2 )/S w, where M 1 and M 2 were the group means, and S w was the pooled-within SD (Hasselblad & Hedges, 1995). As a heuristic for interpretation, Cohen (1988) suggested that a d of 0.2 is small, 0.5 is moderate, and 0.8 is large.
+
+Aggregation of Findings
+Findings across studies were aggregated using fixed-effect and random-effects meta-analysis (Borenstein, Hedges, Higgins, & Rothstein, 2009). Whereas the results of fixed-effect meta-analysis are conceptually restricted to the particular set of studies included in the meta-analysis, random-effects meta-analysis estimates effects for the population of which the current sample of studies is a part. When variability across studies is low (Q < degrees of freedom), random-effects and fixed-effect meta-analysis produce identical results. When the analysis includes a small number of studies (k < 30), greater interpretation weight should be given to fixed-effect rather than random-effects analyses because the between-study variability estimate necessary for random-effects analyses (i.e., tau) loses precision (Schulze, 2007).
+
+To test the variability of findings across studies, we used Cochran’s Q statistic and the I 2 statistic (Borenstein et al., 2009). The Q statistic provides a significance test for variability, whereas the I 2 is a measure of effect size for variability and can, therefore, be compared across analyses. As a rough heuristic, I 2 values of 25, 50, and 75 % can be considered low, moderate, and high variability, respectively (Higgins, Thompson, Deeks, & Altman, 2003).
+
+Following Hanson and Morton-Bourgon (2009), a finding was considered an outlier if it was the single extreme value and accounted for more than 50 % of the total variance (Q), and the overall variability (Q) was significant. When outliers were identified, results are presented both with and without the outlier, with the main interpretation focusing on the findings with the outlier removed. The exception is that if an analysis of three studies identified one study as an outlier, it was not removed (with so few studies, identifying outliers produces unstable results).
+esults
+CPO are Different from SOC
+Tables 2, 3, 4, 5, and 6 compared CPO to SOC, with comparisons based on 3–18 studies (N ranging from 183 to 2,702; Mdn = 735). SOC were found to have greater access to children (d = 0.53) than CPO. In turn, CPO had a greater number of indicators of internet use compared to SOC, such as younger age (d = −0.21), higher income (d = 0.60), and higher education (d = 0.77) (see Table 3).
+Child pornography offender were also found to have greater sexual deviancy (d = −0.37 for pedophilia), but greater barriers to offending compared to SOC. For example, SOC had greater cognitive distortions (e.g., d = 0.49), victim empathy deficits (d = 0.53), and emotional identification with children (d = 0.20) than CPO. In addition, SOC endorsed a greater number of indicators of antisociality compared to CPO, such as greater number of prior offences (d = 0.39), higher scores on measures of antisociality (d = 0.58), and greater problems with supervision compared to CPO (d = 0.74).
+
+There were some notable differences in relationship variables. For example, SOC were more likely to have a detached approach to romantic relationships (d = 0.28), but less likely to have problems with sexual preoccupation (d = −0.39) and sexual self-regulation compared to CPO (d = −0.19). Apart from SOC having greater indicators of severe mental illness (e.g., schizophrenia) than CPO (d = 0.26), the two groups were found to be relatively similar in psychological profiles. SOC, however, had consistently greater childhood difficulties and abuse compared to CPO (see Table 6).
+
+CPO are Different from Mixed Offenders
+Tables 7, 8, and 9 compared CPO to sex offenders against children who also had an online offense (mixed offenders), with comparisons based on 3–13 studies (n ranging from 98 to 2,638; Mdn = 955). As expected, there were no differences in demographic variables associated with internet use (see Table 7). Mixed offenders, however, were found to have greater sexual interest in children (pedohebephilia) than CPO (d = 0.50). In addition to having greater paraphilic interests (d = 0.18), mixed offenders also had greater access to children than CPO (d = 0.32).
+Mixed offenders also had fewer barriers to breaking the law compared to CPOs: more prior violent offences (d = 0.94), more unemployed (d = 0.26), and had greater substance abuse problems (d = 0.35; see Table 8). Mixed offenders, however, were less likely than CPO to participate in pedophilic social network or to have other negative social influences (d = −0.40).
+
+There were relatively few differences in the general psychological variables sampled in the current meta-analysis. In terms of relationship variables, mixed offenders were found to have greater likelihood of low commitment sex (e.g., frequent partners) (d = 0.73), have greater sexual regulation problems (d = 0.30), and were more likely to report a homosexual or bisexual orientation (d = 0.64). Mixed offenders were also more likely to have childhood difficulties compared to CPOs (see Table 9).
+
+Mixed Offenders are Different from SOC
+Tables 10 and 11 compared SOC to mixed offenders, with comparisons based on 3–7 studies (n ranging from 297 to 1,664; Mdn = 682). Compared to SOC, mixed offenders had significantly greater sexual interest in children (d = 0.78), less access to children, and a greater number of indicators of internet use (e.g., higher education, d = −0.39). SOC and mixed offenders scored similarly on indicators of antisociality. When differences were observed, SOC tended to hold more indicators of antisociality (see Table 10). Mixed offenders, however, tended to have greater empathy deficits (d = 0.37) and tended to score lower on impression management compared to SOC (d = −0.21).
+able 11 shows group differences on relationship, psychological, and childhood variables between mixed offenders and SOC. There were relatively few differences in relationship variables with the exception that mixed offenders were more likely to report a homosexual or bisexual orientation (d = 0.61) and greater intimacy deficits than SOC (d = 0.40). Lastly, psychological and childhood variables sampled in the current meta-analysis did not distinguish SOC and mixed offenders, with the exception that mixed offenders scored lower on measures of impression management than SOC (d = −0.21).
+
+Summary of Findings
+Consistent with routine activity theory, offenders who commit contact sex offences were found to have greater access to children compared to those who do not commit contact offences. In contrast, online sex offenders had greater access to the internet compared to offline sex offenders against children (see Fig. 1). Mixed offenders showed similar internet access as CPOs and access to children that was intermediate between the other two groups. Compared to traditional (offline) sex offenders, online offenders were more likely to have deviant sexual interests; however, online-only offenders were more likely to have lifestyle and psychological barriers that prevent them from acting directly on these interests (e.g., lower victim access, lower antisociality, greater victim empathy) than both SOC and mixed offenders. Compared to CPO and SOC, mixed offenders were found to have greater sexual interest in children, and were similar to SOC in antisociality (see Fig. 2).
+Discussion
+Routine activity theory provides a useful framework for explaining many of the observed differences between online child pornography and offline sex offenders. Our finding that, compared to online CPOs, offenders who commit contact sex offences are more likely to have access to children and less likely to have access to the internet is parsimoniously explained by assuming that motivated offenders take advantage of the opportunities available to them. In addition to access variables, however, groups also differed on certain psychological characteristics: specifically, antisociality and psychological barriers to sexual offending. Sex offenders against children and mixed offenders were more antisocial than online CPOs. Furthermore, CPOs had the greatest number of barriers to sexual offending (e.g., greater victim empathy, fewer cognitive distortions) than sex offenders against children and mixed offenders. These findings suggest that the differences between the groups cannot be fully explained by differential opportunities.
+
+One notable finding was that mixed offenders were the most pedophilic, even more than CPOs, who are already known for their high levels of pedophilic interests (Seto et al., 2006). Consistent with previous research (Seto et al., 2006), we found that the child pornography-only offenders were more likely to have an identified sexual interest in children compared to offline, contact sexual offenders against children. Given the high rates of pedophilia among CPOs, the even higher rate of pedophilia among the mixed offenders is striking.
+
+These results suggest that the mixed offenders are a particularly problematic group in terms of sexual deviancy. These findings also highlight the diversity in motivations for sexual offending against children. Pedophilia is not a necessary or sufficient condition for contact sex offences against children, with only about half of sex offenders against children being classified as pedophilic (Seto, 2008). A wide range of motivational factors has been theorized to explain child sexual offending, including impulsivity, antisociality, social deficits, and offense supportive attitudes (for review, see Ward & Beech, 2006).
+
+The high rates of pedophilic interests in the online offender groups may at least partially be attributed to differential processing by the criminal justice system. It is difficult for police to proceed with child pornography charges unless the children portrayed are obviously physically immature. In fact, the majority of individuals arrested for child pornography have pictures depicting children under the age of 12 (Wolak, Finkelhor, & Mitchell, 2005). In contrast, individuals can be charged with sex offences against children if the victims are up to 18 years of age in some jurisdictions. Consequently, a substantial proportion of sex offenders against children would be expected to victimize children whose physical form approximated that of young adults and, thus, would be unlikely to have a pedophilic motivation to their offending. Studies directly comparing CPOs with sex offenders against prepubescent children would be informative in this debate; unfortunately, studies included in the current meta-analysis inconsistently reported the age criteria of victims. An additional limitation of the meta-analysis is that up to half of the CPOs would be expected to have undetected offline offences (Seto et al., 2011). As such, group differences would be attenuated by the probable inclusion of mixed offenders in the online child pornography group.
+
+The finding that the online offender groups were more likely to report homosexual or bisexual orientation than the offline offenders was unexpected. This association may be related to the correlates of sexual self-regulation deficits. Individuals with paraphilic hypersexuality tend to engage in a wide range of sexual behaviors (Cantor et al., 2013), and there is some evidence that individuals with online sexual compulsions, in particular, are more likely to report a homosexual or bisexual orientation than those not meeting the criteria of online sexual compulsions (Cooper et al., 2000).
+
+Cross-Over from Online to Offline Sexual Offences
+The likelihood that identified CPOs will cross-over to contact sexual offences is a preoccupation for applied risk assessment. The existing research has found low rates of recidivism for both new contact offences and new child pornography offences (<10 %). For both outcomes, the major risk factors are related to general criminality, such as young age, prior violent offences, juvenile record, and total prior criminal history (Eke, Seto, & Williams, 2011; Seto & Eke, 2005). For child pornography recidivism, however, there is some evidence that the content of the child pornography collection may also provide information about the likelihood of recidivism; specifically, the ratio of boy to girl content (Eke & Seto, 2012).
+
+The prominence of general criminality factors in predicting cross-over and persistence is consistent with the findings of the current meta-analysis. Among child pornography users with pedophilia, the psychological factors that differentiate those who act on their interests and those who do not should be related to propensities for rule violation. Our results also suggest that opportunity matters. Motivated offenders with access to children were those most likely to sexually assault actual children whereas pedophilic offenders who frequently use computers were those most likely to view child pornography. Consequently, individuals most at risk for cross-over offences would be expected to have high levels of pedophilia, high levels of antisociality, have access to children, and have few psychological barriers to acting on their deviant impulses. Conversely, online child pornography would be expected to be low risk for contact sex offences if they score low on measures of general antisociality, have limited access to children, and have psychological barriers to committing contact sexual offences.
+
+Almost all of the previous recidivism research with online offenders has used officially recorded offences as the outcome criteria, which would underestimate the true recidivism rate. The German Prevention Project Dunkelfeld, however, provides a rare opportunity to examine self-reported persistence of child pornography offending (Beier et al., 2009). Child pornography-only offenders have low rates of contact sexual offences and this remains true even based on confidential self-report in a relationship of trust (e.g., 0 %) (Neutze, Grundmann, Amelung et al., 2012a). In contrast, the rates of self-reported child pornography use were very high both prior to and following treatment (Kuhle et al., 2012). Although child pornography offences declined at post-treatment, most (80 %) of the treatment graduates (n = 14) still reported some use of sexual abuse images of children involving nudity and erotic posing. Importantly, none of these individuals had been detected by the criminal justice system. Further research studies examining predictors of self-reported child pornography reoffending would be informative and may find distinct risk factors from those predicting contact sex offences. Studies of individuals with problematic online sexual behaviors, for example, suggest that loneliness and boredom are particularly important predictors of internet pornography use (Chaney & Chang, 2005; Yoder, Virden III, & Amin, 2005).
+
+Future Directions
+The current meta-analysis did not find many differences in general psychological variables (e.g., anxiety, depression, self-esteem) between the online and offline sexual offender groups. It is likely, however, that many of these factors could be correlated with diverse forms of sexual offending. For example, Babchishin et al. (2011) found no significant differences between online and offline sex offences in child sexual abuse rates; nevertheless, the absolute rates among all the sexual offender groups were substantially higher than the rates for the male population. Further comparisons between offenders and normative samples on the general psychological variables are needed before it is possible to make strong conclusions about the contribution of these variables to online and offline sexual offending.
+
+Similarly, research using comparison groups of individuals with non-criminal sexual behavior problems would help identify the distinctive features of online sexual offenders. Individuals with high levels of problematic sexual behaviors tend to report greater sexual sensation seeking, non-sexual sensation seeking, and sexual compulsivity (Cooper, Scherer, Boies, & Gordon, 1999). As such, it is plausible that some individuals who commit online sexual offences are positioned at the extreme high end of sexual compulsivity (Wood, 2011). However, not all online CPOs report internet or pornography addiction as reasons for viewing child pornography (Seto, Reeves, & Jung, 2010). It is likely that pedophilia is a major contributing factor in most cases of persistent child pornography use.
+
+Conclusion
+This study found that offenders who restrict their offending behavior to online child pornography offences are different from mixed offenders and sex offenders against children, and that mixed offenders (with both contact and non-contact offences) are a particularly high risk group. Given these group differences, combining mixed offenders and child pornography-only offenders into a general child pornography sample is not desirable. Advancing our understanding of etiological and risk factors for these groups of offenders requires clear sample compositions. The current meta-analysis suggests that the management of offenders with child pornography offences within the correctional and forensic mental health system should carefully consider the existence of concomitant contact sexual offences.

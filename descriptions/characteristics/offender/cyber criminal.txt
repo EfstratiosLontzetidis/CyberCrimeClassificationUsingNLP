@@ -1,0 +1,50 @@
+Research into why individuals commit crime when others do not, and to ascertain how
+these individuals are different to law abiding citizens is carried out worldwide. Within the
+workshop research into the profile and reasons of cyber criminality were discussed
+theoretically at length with numerous questions raised;
+Do cyber offenders have common demographic characteristics, for example, are they a
+particular age? Do only males commit cyber offences? Where do cyber criminals live, rural,
+urban? Do they reside in the same country? Do those who specialise in a particular form of
+cybercrime live in a specific area? Or is it that these individuals have similar attitudes, for
+instance, not believing they have committed a crime or oppose the law? Or do these
+attackers have similar motives or a similar skill set.
+Answering the above questions and comparing the characteristics of online to offline
+offenders will help to establish whether these groups of offenders are different. The results
+of such analysis could help in the detection, intervention and punishment of such criminals.
+As already noted cybercrime is a unique crime, requiring a new set of skills not previously
+needed in traditional crime.
+Criminal career research, which is fundamental to criminological study, will enhance our
+evidence base on cybercrime.
+“The construct of a ‘criminal career’ is a powerful approach for accumulating rich
+knowledge about offenders and using that knowledge for developing rational policies
+for dealing with crime… The basic thrust of criminal career research is to look at the
+characteristics of individual offenders and to use that information for dealing with a
+particular individual, but also to look at aggregates of offenders and their collective
+characteristics for guidance on how criminal justice policies can best respond to their
+offending patterns.” (MacLeod et al. 2012).
+Following the formation of longitudinal data on cyber criminals, which is a key component
+of criminal career research, we can begin to make inference on cyber offenders’ criminal
+careers. Such research considers the impact of age or stage of career, on factors that
+influence criminal behaviour and attempts to explain motivations for starting, continuing
+and stopping offending. Several features of an offenders’ criminal career can be studied;
+onset, duration, frequency, seriousness, escalation, desistance, prevalence, specialisation
+and recidivism (see Farrington, 1992; MacLeod et al. 2012; Soothill et al., 2009).
+Examining just a few features of an offender’s career can provide a wealth of knowledge, to
+illustrate; onset examines the start of an individual’s criminal career, for instance,
+establishing the age at which someone begins offending, or the entry offence into their
+criminal career. Frequency looks at the occurrence of offences, such as, the number of
+cybercrimes reported, prosecuted and convicted. Specialisation investigates how far
+offenders focus on certain types of offending, for example, do cyber criminals commit only
+cyber offences, which can be extended to whether they commit only one type of cyber
+offence or multiple (i.e. phishing, fraud, espionage). Moreover, prevalence looks at the
+proportion of the population who are committing offences, for instance the proportion of
+cyber criminals in the UK.
+Whilst the results will provide valuable information, measuring the varying features of a
+criminal career is extremely difficult laying host to a number of limitations, the principal
+being the samples true representation. The quality of the data and the information stored
+(discussed in ‘Cybercrime Data) restricts the analysis and area of the criminal career which
+can be researched. For instance, official data only reveals a limited number of the total
+amount of crimes committed. This is due to not all crimes being reported, not all reported
+crimes being recorded and not all offenders being apprehended. Furthermore, results 
+obtained through the analysis of official crime data will measure the criminal process and
+changes within this process along with criminal activity.
