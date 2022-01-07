@@ -42,7 +42,7 @@ def map_characteristics_to_crimes():
                 tfidf = TfidfVectorizer(min_df=1, stop_words="english").fit_transform(documents)
                 # no need to normalize, since Vectorizer will return normalized tf-idf
                 pairwise_similarity = tfidf * tfidf.T
-                if (pairwise_similarity[0,1]>0.5):
+                if (pairwise_similarity[0,1]>0.05):
                     print(characteristic_name)
                 filestochecksimilarity.clear()
             filestochecksimilarity.clear()
