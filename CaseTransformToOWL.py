@@ -109,12 +109,8 @@ def case_to_owl(cases_prefix):
                             new_case.hasHarm = ['Inchoate Harm']
                         elif characteristic_name == "individual harm":
                             new_case.hasHarm = ['Individual Harm']
-                        elif characteristic_name == "direct systemic harm":
-                            new_case.hasHarm = ['Direct Systemic Harm']
-                        elif characteristic_name == "generalized individual harm":
-                            new_case.hasHarm = ['Generalized Individual Harm']
-                        elif characteristic_name == "aggregated individual harm":
-                            new_case.hasHarm = ['Aggregated Individual Harm']
+                        elif characteristic_name == "systemic harm":
+                            new_case.hasHarm = ['Systemic Harm']
                     print(characteristic_name)
                     print("''''''''''''''''''''''''''''''''''''''''''''''''''''''")
                 filestochecksimilarity.clear()
