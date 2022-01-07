@@ -1,0 +1,18 @@
+Computer-Related Fraud: The types of Internet fraud
+that law enforcement agencies mostly observe are Internet
+auction fraud, nondelivery of merchandize, credit card fraud,
+investment fraud, Internet pyramid schemes, and advance
+fee schemes. The most common are Internet auction fraud
+and nondelivery of merchandize, due to the outbreak of
+e-commerce websites. Another serious problem users confront
+is the false reputation problem in online rating systems [60],
+which can be fraudulent when scam retailers tamper with
+their reputation score using fitting techniques. According
+to [61], computer-related fraud has not been perceived as
+a serious problem for a number of reasons including the
+relatively small monetary losses that victims suffer, the supposition of victims that law enforcement will not assist
+them, a feeling of embarrassment, and not knowing how to
+report this type of fraud. Another typical computer-related
+fraud is advanced fee scheme that occurs when the victim
+pays money to somebody in anticipation of receiving something of greater value, and then receives little or nothing
+in return.

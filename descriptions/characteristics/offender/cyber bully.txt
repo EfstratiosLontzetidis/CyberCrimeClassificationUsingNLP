@@ -1,23 +1,9 @@
-An explanation of the growing phenomenon of cyberbullying
-Young people are using the Internet more than ever and most have Internet access from home. For many children, the Internet isn’t simply a convenient way to research or a fun afterschool activity – it’s a big part of their social life. Emailing and chatting with friends are children’s most common online activities, after studying and playing games. But like many other social situations, some kids bully other kids online.
-
-Cyberbullying is similar to other types of bullying, except it takes place online and through text messages sent to cell phones. Cyberbullies can be classmates, online acquaintances, and even anonymous users, but most often they do know their victims.
-Some examples of ways kids bully online are
-
-Sending someone mean or threatening emails, instant messages, or text messages
-Excluding someone from an instant messenger buddy list or blocking their email for no reason
-Tricking someone into revealing personal or embarrassing information and sending it to others
-Breaking into someone’s email or instant message account to send cruel or untrue messages while posing as that person
-Creating websites to make fun of another person such as a classmate or teacher
-Using websites to rate peers as prettiest, ugliest, etc.
-Both boys and girls sometimes bully online and just as in face-to-face bullying, tend to do so in different ways. Boys more commonly bully by sending messages of a sexual nature or by threatening to fight or hurt someone. Girls more often bully by spreading rumors and by sending messages that make fun of someone or exclude others. They also tell secrets.
-
-The Effects of Cyberbullying
-Victims of cyberbullying may experience many of the same effects as children who are bullied in person, such as a drop in grades, low self-esteem, a change in interests, or depression. However, cyberbullying can seem more extreme to its victims because of several factors:
-
-It occurs in the child’s home. Being bullied at home can take away the place children feel most safe.
-It can be harsher. Often kids say things online that they wouldn’t say in person, mainly because they can’t see the other person’s reaction.
-It can be far reaching. Kids can send emails making fun of someone to their entire class or school with a few clicks, or post them on a website for the whole world to see.
-It can be anonymous. Cyberbullies often hide behind screen names and email addresses that don’t identify who they are. Not knowing who is responsible for bullying messages can add to a victim’s insecurity.
-It may seem inescapable. It may seem easy to get away from a cyberbully by just getting offline, but for some kids not going online takes away one of the major places they socialize.
-Cyberbullying can be a complicated issue, especially for adults who are not as familiar with using the Internet, instant messenger, or chat rooms as kids. But like more typical forms of bullying, it can be prevented when kids know how to protect themselves and parents are available to help.
+ Cyber Bully: A lot of media attention is focusing on
+cyberbullying incidents due to the serious consequences that
+can lead to the victim committing suicide. Cyber-bullies intend
+to insult, hurt, or embarrass other individuals through sending
+or posting text or images through the Internet, cell phones,
+or other devices [25]. Their practices differ as they may be
+limited to posting rumors or gossips on the Internet. The cyber
+bully may reach the extent of publishing sensitive material
+causing severe defamation and humiliation.

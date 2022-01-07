@@ -1,0 +1,9 @@
+Computer-Related Forgery: This offence is about fraud
+and related activity in connection with identification documents, authentication features, and information [59]. The
+composing of a document that fraudulently appears to originate from a legitimate author, the modification of an image
+or video for defamation or as a proof in front of juries, and the
+alteration of a document or text in order to deceive, are examples of computer-related forgery. Forgery plays a key role in
+the success of other cybercrimes such as phishing, in which the
+victim is encouraged to disclose sensitive personal or financial information. This can be achieved by gaining the victim’s
+trust regarding the sender’s authenticity with the use of proper
+forgery techniques.

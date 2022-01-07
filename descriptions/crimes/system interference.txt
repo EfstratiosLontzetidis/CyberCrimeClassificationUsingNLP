@@ -1,0 +1,16 @@
+System Interference: Alternatively, offenders target the
+computer systems and their seamless operation instead of
+the data stored in them, as this has the same result with
+the offence of data interference. System interference can be
+achieved either through physical attack or remotely with the
+use of computer worms, DoS, distributed DoS (DDoS), HTTP
+POST DoS, application-layer floods, slow read attack, etc.
+Remote attacks can be conducted with the use of computer
+worms. A computer worm is a malicious software that duplicates itself, using system resources, in order to spread and
+overpower the computer system. Often, it uses a computer
+network to augment, aiming to security holes and breaches,
+that are flaws or susceptibilities in a system that can be
+exploited. Subsequently, worms hinder the smooth running of
+the computer system or network, depending on the “payload”
+they encapsulate [57]. Other well-known forms of Web-based
+attacks are DoS attacks.

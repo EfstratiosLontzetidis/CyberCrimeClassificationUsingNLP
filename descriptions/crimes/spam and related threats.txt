@@ -1,0 +1,15 @@
+Spam and Related Threats: Spamming is the massive emission of unsolicited messages that mainly purport
+to advertisement, the most widely recognized form of
+which is e-mail spam. According to the Messaging AntiAbuse Working Group and Others [80], from July 2009 to
+December 2010, abusive e-mail ranged from about 88%–91%
+in a total of 200 billion unaltered e-mails delivered from
+500 million mailboxes. These metrics show that the majority
+of e-mails can be considered spam pointing out the severity of
+the problem. The offenders choose spamming to go after their
+objective, on the grounds that e-mail distribution is inexpensive
+as the marginal cost for each electronic message is essentially
+zero. Moreover, the origin of spam messages is often difficult to determine, due to the use of unknown domains and the
+proper concealment of the message source [81]. Regarding the
+consequences, apart from annoying and distracting users, spam
+messages result in direct financial loss for companies, reduced
+productivity, and breach of individual privacy [82].

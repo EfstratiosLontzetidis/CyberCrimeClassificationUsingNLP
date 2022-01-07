@@ -1,0 +1,20 @@
+Terrorist Use of the Internet: Computers seized in
+Afghanistan were proven to being used for preparation of
+9/11 attacks, either for collecting intelligence on targets, or
+for sending encrypted messages via the Web [102]. This
+highlights the Web’s vital role in the preparation of real
+world attacks, due to anonymity, numerous command, and
+control mechanisms, and a relatively safe environment for
+terrorists to plan and coordinate attacks, along with critical information regarding potential targets. Terrorists also use
+the Internet to raise funds for their activities. The immediacy of Internet combined with its constant evolvement opens
+up a great opportunity for considerable financing through
+donations [103]. Terrorist organizations have resorted to methods such as fake Web shops to hide their identity, and therefore
+avoid discovery [104]. Lastly, by hacking the computer and
+communication networks of critical infrastructure, terrorists
+can achieve their goals and induce civil disturbance, huge
+financial damage, and possibly chaos. A state’s sustainability and stability is highly depended upon the perpetual and
+abiding functionality of infrastructure [105], such as telecommunication systems, electric plants, water supply systems,
+transportation, and financial institutions [106]. Research is on
+the way, toward cyber physical security and dependability
+issues of control systems in such infrastructure, and especially
+nuclear power plants [106].

@@ -1,0 +1,21 @@
+Identity Theft: The increasing growth of the requirement
+of identifiability contributed toward the increase in identity
+theft, as some sought to use it in frauds and others considered
+the theft as the only way to hide their own identity [62]. Due
+to this outburst, the Federal Trade Commission in 2000 labeled
+identity theft as the fastest growing crime of our time [63]. As
+stated by Paget [64] identity theft is used to describe the theft
+or assumption of a pre-existing identity (or significant part
+of it), with or without consent, and regardless of whether the
+person is dead or alive. There are three separate phases in committing the offence of identity theft. First, the offender illegally
+obtains information regarding the victim’s identity with the
+use of either physical method such as stealing data from storage devices and mail theft, or with the use of search engines,
+malicious software, insider’s attacks, and phishing through
+social engineering. At the second phase, the offender can take
+advantage of the identity information, by selling for example
+credit-card records to others. Lastly, the third phase, involves
+the use of the identity information which most of the times
+leads to new offences such as forgery, financial fraud, and
+falsifications [65]. What researchers try to achieve in order to
+address this kind of attack, is among others to automatically trace identities of cyber criminals through messages they post
+on the Internet [66].

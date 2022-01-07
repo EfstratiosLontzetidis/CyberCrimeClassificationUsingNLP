@@ -1,0 +1,3 @@
+Physical Tampering: This type of attack includes the
+deliberate physical damaging or corrupting of hardware
+devices with the intention of destruction or malfunction.

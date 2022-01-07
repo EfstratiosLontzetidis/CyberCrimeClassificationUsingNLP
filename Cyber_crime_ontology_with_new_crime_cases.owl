@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C"
+         xmlns="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#">
+
+<owl:Ontology rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C"/>
+
+<owl:DatatypeProperty rdf:about="#hasAccessViolation">
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#hasHarm">
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#hasKeywords">
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#hasOffender">
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#hasTarget">
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#hasVictim">
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+</owl:DatatypeProperty>
+
+<owl:Class rdf:about="#Child_Pornography">
+  <rdfs:subClassOf rdf:resource="#Content-Related_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Content-Related_Offences"/>
+
+<owl:Class rdf:about="#Combinational_Offences"/>
+
+<owl:Class rdf:about="#Computer-Related_Forgery">
+  <rdfs:subClassOf rdf:resource="#Computer-Related_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Computer-Related_Offences"/>
+
+<owl:Class rdf:about="#Computer-Related_Fraud">
+  <rdfs:subClassOf rdf:resource="#Computer-Related_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Copyright-Related_Offences">
+  <rdfs:subClassOf rdf:resource="#Offences_Related_to_Infringements_of_Copyright_and_Related_Rights"/>
+  <owl:disjointWith rdf:resource="#Trademark-Related_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Offences_Related_to_Infringements_of_Copyright_and_Related_Rights"/>
+
+<owl:Class rdf:about="#Trademark-Related_Offences">
+  <rdfs:subClassOf rdf:resource="#Offences_Related_to_Infringements_of_Copyright_and_Related_Rights"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Cyber_Bullying">
+  <rdfs:subClassOf rdf:resource="#Content-Related_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Cyber_Laundering">
+  <rdfs:subClassOf rdf:resource="#Combinational_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Cyberwarfare">
+  <rdfs:subClassOf rdf:resource="#Combinational_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Data_Interference">
+  <rdfs:subClassOf rdf:resource="#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
+
+<owl:Class rdf:about="#Identity_Theft">
+  <rdfs:subClassOf rdf:resource="#Computer-Related_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Illegal_Access">
+  <rdfs:subClassOf rdf:resource="#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
+  <owl:equivalentClass>
+    <owl:Class>
+      <owl:intersectionOf rdf:parseType="Collection">
+        <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+            <owl:Restriction>
+              <owl:onProperty rdf:resource="#hasAccessViolation"/>
+              <owl:hasValue>Local Computer Access</owl:hasValue>
+            </owl:Restriction>
+            <owl:Restriction>
+              <owl:onProperty rdf:resource="#hasAccessViolation"/>
+              <owl:hasValue>Physical Tampering</owl:hasValue>
+            </owl:Restriction>
+          </owl:unionOf>
+        </owl:Class>
+        <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+            <owl:Restriction>
+              <owl:onProperty rdf:resource="#hasHarm"/>
+              <owl:hasValue>Fear</owl:hasValue>
+            </owl:Restriction>
+            <owl:Restriction>
+              <owl:onProperty rdf:resource="#hasHarm"/>
+              <owl:hasValue>Loss of Property</owl:hasValue>
+            </owl:Restriction>
+          </owl:unionOf>
+        </owl:Class>
+        <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+            <owl:Restriction>
+              <owl:onProperty rdf:resource="#hasOffender"/>
+              <owl:hasValue>Cyber Criminal</owl:hasValue>
+            </owl:Restriction>
+            <owl:Restriction>
+              <owl:onProperty rdf:resource="#hasOffender"/>
+              <owl:hasValue>Insider</owl:hasValue>
+            </owl:Restriction>
+          </owl:unionOf>
+        </owl:Class>
+        <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+            <owl:Restriction>
+              <owl:onProperty rdf:resource="#hasTarget"/>
+              <owl:hasValue>Emotional Abuse</owl:hasValue>
+            </owl:Restriction>
+            <owl:Restriction>
+              <owl:onProperty rdf:resource="#hasTarget"/>
+              <owl:hasValue>Financial Abuse</owl:hasValue>
+            </owl:Restriction>
+          </owl:unionOf>
+        </owl:Class>
+        <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+            <owl:Restriction>
+              <owl:onProperty rdf:resource="#hasVictim"/>
+              <owl:hasValue>Company</owl:hasValue>
+            </owl:Restriction>
+            <owl:Restriction>
+              <owl:onProperty rdf:resource="#hasVictim"/>
+              <owl:hasValue>Individual</owl:hasValue>
+            </owl:Restriction>
+          </owl:unionOf>
+        </owl:Class>
+      </owl:intersectionOf>
+    </owl:Class>
+  </owl:equivalentClass>
+</owl:Class>
+
+<owl:Class rdf:about="#Illegal_Data_Acquisition">
+  <rdfs:subClassOf rdf:resource="#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Illegal_Gambling_and_Online_Games">
+  <rdfs:subClassOf rdf:resource="#Content-Related_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Illegal_Interception">
+  <rdfs:subClassOf rdf:resource="#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Misuse_of_Devices">
+  <rdfs:subClassOf rdf:resource="#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Phishing">
+  <rdfs:subClassOf rdf:resource="#Combinational_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Pornographic_Material">
+  <rdfs:subClassOf rdf:resource="#Content-Related_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Racism_and_Hate_Speech_on_the_Internet">
+  <rdfs:subClassOf rdf:resource="#Content-Related_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Religious_Offences">
+  <rdfs:subClassOf rdf:resource="#Content-Related_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Spam_and_Related_Threats">
+  <rdfs:subClassOf rdf:resource="#Content-Related_Offences"/>
+</owl:Class>
+
+<owl:Class rdf:about="#System_Interference">
+  <rdfs:subClassOf rdf:resource="#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Terrorist_Use_of_the_Internet">
+  <rdfs:subClassOf rdf:resource="#Combinational_Offences"/>
+</owl:Class>
+
+<rdf:Description rdf:about="#Case434544">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasAccessViolation>Physical Tampering</hasAccessViolation>
+  <hasHarm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fear</hasHarm>
+  <hasOffender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Insider</hasOffender>
+  <hasTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emotional Abuse</hasTarget>
+  <hasVictim rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Company</hasVictim>
+</rdf:Description>
+
+<owl:Thing rdf:about="#case1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasOffender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sexually Deviant User</hasOffender>
+</owl:Thing>
+
+<owl:AllDisjointClasses>
+  <owl:members rdf:parseType="Collection">
+    <rdf:Description rdf:about="#Data_Interference"/>
+    <rdf:Description rdf:about="#Illegal_Access"/>
+    <rdf:Description rdf:about="#Illegal_Data_Acquisition"/>
+    <rdf:Description rdf:about="#Illegal_Interception"/>
+    <rdf:Description rdf:about="#Misuse_of_Devices"/>
+    <rdf:Description rdf:about="#System_Interference"/>
+  </owl:members>
+</owl:AllDisjointClasses>
+
+<owl:AllDisjointClasses>
+  <owl:members rdf:parseType="Collection">
+    <rdf:Description rdf:about="#Cyber_Laundering"/>
+    <rdf:Description rdf:about="#Cyberwarfare"/>
+    <rdf:Description rdf:about="#Phishing"/>
+    <rdf:Description rdf:about="#Terrorist_Use_of_the_Internet"/>
+  </owl:members>
+</owl:AllDisjointClasses>
+
+<owl:AllDisjointClasses>
+  <owl:members rdf:parseType="Collection">
+    <rdf:Description rdf:about="#Computer-Related_Forgery"/>
+    <rdf:Description rdf:about="#Computer-Related_Fraud"/>
+    <rdf:Description rdf:about="#Identity_Theft"/>
+  </owl:members>
+</owl:AllDisjointClasses>
+
+<owl:AllDisjointClasses>
+  <owl:members rdf:parseType="Collection">
+    <rdf:Description rdf:about="#Child_Pornography"/>
+    <rdf:Description rdf:about="#Cyber_Bullying"/>
+    <rdf:Description rdf:about="#Illegal_Gambling_and_Online_Games"/>
+    <rdf:Description rdf:about="#Pornographic_Material"/>
+    <rdf:Description rdf:about="#Racism_and_Hate_Speech_on_the_Internet"/>
+    <rdf:Description rdf:about="#Religious_Offences"/>
+    <rdf:Description rdf:about="#Spam_and_Related_Threats"/>
+  </owl:members>
+</owl:AllDisjointClasses>
+
+
+</rdf:RDF>

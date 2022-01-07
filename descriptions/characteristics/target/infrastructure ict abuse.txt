@@ -1,0 +1,8 @@
+Infrastructure ICT Abuse or Exploitation: This target
+refers to ceasing or interrupting the perpetual functionality
+of critical infrastructure, by abusing ICT systems [43], such
+as industrial automation systems. These are physical plants
+through which physical processes are performed along with
+computational processes necessary for monitoring and handling the physical ones [44]. Offenders aim to society in
+general by potentially hitting such infrastructure of great
+importance.
