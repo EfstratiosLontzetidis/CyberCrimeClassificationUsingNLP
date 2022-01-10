@@ -51,7 +51,7 @@ def case_to_owl(cases_prefix):
                 documents = [open(f,encoding="UTF-8").read() for f in filestochecksimilarity]
                 tfidf = TfidfVectorizer(min_df=1, stop_words="english").fit_transform(documents)
                 pairwise_similarity = tfidf * tfidf.T
-                if (pairwise_similarity[0,1]>0.5):
+                if (pairwise_similarity[0,1]>0.05):
                     if counter == 0:
                         if characteristic_name=="abusive user":
                             new_case.hasOffender = ['Abusive User']
@@ -117,12 +117,7 @@ def case_to_owl(cases_prefix):
             filestochecksimilarity.clear()
             counter+=1
         print("\n")
-        print("The case: "+case_name +" has successfully been imported in the ontology with the data properties: ")
-        print("hasOffender: "+str(new_case.hasOffender))
-        print("hasAccessViolation: " + str(new_case.hasAccessViolation))
-        print("hasVictim: " + str(new_case.hasVictim))
-        print("hasTarget: " + str(new_case.hasTarget))
-        print("hasHarm: " + str(new_case.hasHarm))
+        print("The case: "+case_name +" has successfully been imported in the ontology with their data properties.")
         print("\n")
     print("Now you can import the new ontology 'Cyber_crime_ontology_with_new_crime_cases.owl' in Protege and start the reasoner Hermi to classify your cases to their cyber crime category (see individuals by type inferred).")
     crime.save("Cyber_crime_ontology_with_new_crime_cases.owl")
