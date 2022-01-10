@@ -90,6 +90,52 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Child_Pornography -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Child_Pornography">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Abusive User</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Entities as Offenders</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Sexually Deviant User</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Emotional Abuse</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Sexual Abuse</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                        <owl:hasValue>Individual Harm</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                        <owl:hasValue>Individual</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Content-Related_Offences"/>
     </owl:Class>
     
@@ -104,6 +150,48 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Computer-Related_Forgery -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Computer-Related_Forgery">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Criminal</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Script Kiddie</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Company</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Individual</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                        <owl:hasValue>Inchoate Harm</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                        <owl:hasValue>Emotional Abuse</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Computer-Related_Offences"/>
     </owl:Class>
     
@@ -112,6 +200,44 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Computer-Related_Fraud -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Computer-Related_Fraud">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Criminal</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Online Social Hacker</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Script Kiddie</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                        <owl:hasValue>Individual Harm</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                        <owl:hasValue>Financial Abuse</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                        <owl:hasValue>Individual</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Computer-Related_Offences"/>
     </owl:Class>
     
@@ -132,8 +258,61 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Copyright-Related_Offences -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Copyright-Related_Offences">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:intersectionOf rdf:parseType="Collection">
+                            <owl:Class>
+                                <owl:unionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                        <owl:hasValue>Entities as Offenders</owl:hasValue>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                        <owl:hasValue>Insider</owl:hasValue>
+                                    </owl:Restriction>
+                                </owl:unionOf>
+                            </owl:Class>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Remote Computer Access</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Individual Harm</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Financial Abuse</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:intersectionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:intersectionOf rdf:parseType="Collection">
+                            <owl:Class>
+                                <owl:unionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                        <owl:hasValue>Company</owl:hasValue>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                        <owl:hasValue>Individual</owl:hasValue>
+                                    </owl:Restriction>
+                                </owl:unionOf>
+                            </owl:Class>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>ICT Abuse</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:intersectionOf>
+                    </owl:Class>
+                </owl:unionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Offences_Related_to_Infringements_of_Copyright_and_Related_Rights"/>
-        <owl:disjointWith rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Trademark-Related_Offences"/>
     </owl:Class>
     
 
@@ -141,6 +320,44 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Cyber_Bullying -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Cyber_Bullying">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Abusive User</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Bully</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Online Social Hacker</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                        <owl:hasValue>Individual Harm</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                        <owl:hasValue>Emotional Abuse</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                        <owl:hasValue>Individual</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Content-Related_Offences"/>
     </owl:Class>
     
@@ -149,6 +366,40 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Cyber_Laundering -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Cyber_Laundering">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Criminal</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Entities as Offenders</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                        <owl:hasValue>Inchoate Harm</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                        <owl:hasValue>Financial Abuse</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                        <owl:hasValue>Country</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Combinational_Offences"/>
     </owl:Class>
     
@@ -157,6 +408,48 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Cyberwarfare -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Cyberwarfare">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Criminal</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Fighter</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Entities as Offenders</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Hacktivist</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                        <owl:hasValue>Systemic Harm</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                        <owl:hasValue>Infrastructure ICT Abuse</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                        <owl:hasValue>Country</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Combinational_Offences"/>
     </owl:Class>
     
@@ -165,6 +458,76 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Data_Interference -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Data_Interference">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Local Computer Access</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Physical Tampering</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Remote Computer Access</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Inchoate Harm</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Individual Harm</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Systemic Harm</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Criminal</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Insider</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Script Kiddie</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Company</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Individual</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                        <owl:hasValue>ICT Abuse</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
     </owl:Class>
     
@@ -173,6 +536,76 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Identity_Theft -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Identity_Theft">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:intersectionOf rdf:parseType="Collection">
+                            <owl:Class>
+                                <owl:unionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                        <owl:hasValue>Cyber Criminal</owl:hasValue>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                        <owl:hasValue>Online Social Hacker</owl:hasValue>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                        <owl:hasValue>Script Kiddie</owl:hasValue>
+                                    </owl:Restriction>
+                                </owl:unionOf>
+                            </owl:Class>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Inchoate Harm</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:intersectionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:intersectionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Local Computer Access</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Individual Harm</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:intersectionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:intersectionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Insider</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Financial Abuse</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:intersectionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:intersectionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Emotional Abuse</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Individual</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:intersectionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                </owl:unionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Computer-Related_Offences"/>
     </owl:Class>
     
@@ -192,7 +625,7 @@
                             </owl:Restriction>
                             <owl:Restriction>
                                 <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
-                                <owl:hasValue>Physical Tampering</owl:hasValue>
+                                <owl:hasValue>Remote Computer Access</owl:hasValue>
                             </owl:Restriction>
                         </owl:unionOf>
                     </owl:Class>
@@ -200,11 +633,11 @@
                         <owl:unionOf rdf:parseType="Collection">
                             <owl:Restriction>
                                 <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
-                                <owl:hasValue>Fear</owl:hasValue>
+                                <owl:hasValue>Inchoate Harm</owl:hasValue>
                             </owl:Restriction>
                             <owl:Restriction>
                                 <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
-                                <owl:hasValue>Loss of Property</owl:hasValue>
+                                <owl:hasValue>Systemic Harm</owl:hasValue>
                             </owl:Restriction>
                         </owl:unionOf>
                     </owl:Class>
@@ -218,6 +651,220 @@
                                 <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
                                 <owl:hasValue>Insider</owl:hasValue>
                             </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Online Social Hacker</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Script Kiddie</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Company</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Individual</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                        <owl:hasValue>ICT Abuse</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Data_Acquisition -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Data_Acquisition">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Local Computer Access</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Remote Computer Access</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Inchoate Harm</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Individual Harm</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Systemic Harm</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Criminal</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Entities as Offenders</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Insider</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Online Social Hacker</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Script Kiddie</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>ICT Abuse</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Infrastructure ICT Abuse</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Social Abuse</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Company</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Country</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Individual</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Gambling_and_Online_Games -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Gambling_and_Online_Games">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                        <owl:hasValue>Individual Harm</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                        <owl:hasValue>Entities as Offenders</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                        <owl:hasValue>Financial Abuse</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                        <owl:hasValue>Individual</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Content-Related_Offences"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Interception -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Interception">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Local Computer Access</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Remote Computer Access</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Inchoate Harm</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Individual Harm</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Systemic Harm</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Criminal</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Insider</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Script Kiddie</owl:hasValue>
+                            </owl:Restriction>
                         </owl:unionOf>
                     </owl:Class>
                     <owl:Class>
@@ -228,7 +875,7 @@
                             </owl:Restriction>
                             <owl:Restriction>
                                 <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
-                                <owl:hasValue>Financial Abuse</owl:hasValue>
+                                <owl:hasValue>ICT Abuse</owl:hasValue>
                             </owl:Restriction>
                         </owl:unionOf>
                     </owl:Class>
@@ -252,33 +899,67 @@
     
 
 
-    <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Data_Acquisition -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Data_Acquisition">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Gambling_and_Online_Games -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Gambling_and_Online_Games">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Content-Related_Offences"/>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Interception -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Interception">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
-    </owl:Class>
-    
-
-
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Misuse_of_Devices -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Misuse_of_Devices">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Local Computer Access</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Physical Tampering</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Remote Computer Access</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Criminal</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Insider</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Script Kiddie</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Company</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Individual</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                        <owl:hasValue>Individual Harm</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                        <owl:hasValue>ICT Abuse</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
     </owl:Class>
     
@@ -299,6 +980,52 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Phishing -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Phishing">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Criminal</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Online Social Hacker</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Script Kiddie</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Financial Abuse</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>ICT Abuse</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                        <owl:hasValue>Inchoate Harm</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                        <owl:hasValue>Individual</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Combinational_Offences"/>
     </owl:Class>
     
@@ -307,6 +1034,60 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Pornographic_Material -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Pornographic_Material">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Inchoate Harm</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Individual Harm</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Bully</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Entities as Offenders</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Sexually Deviant User</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Emotional Abuse</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Sexual Abuse</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                        <owl:hasValue>Individual</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Content-Related_Offences"/>
     </owl:Class>
     
@@ -315,6 +1096,68 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Racism_and_Hate_Speech_on_the_Internet -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Racism_and_Hate_Speech_on_the_Internet">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Individual Harm</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Systemic Harm</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Abusive User</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Bully</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Entities as Offenders</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Emotional Abuse</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Social Abuse</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Country</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Individual</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Content-Related_Offences"/>
     </owl:Class>
     
@@ -323,6 +1166,64 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Religious_Offences -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Religious_Offences">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Individual Harm</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Systemic Harm</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Abusive User</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Entities as Offenders</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Emotional Abuse</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Social Abuse</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Country</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Individual</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Content-Related_Offences"/>
     </owl:Class>
     
@@ -331,6 +1232,52 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Spam_and_Related_Threats -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Spam_and_Related_Threats">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Criminal</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Online Social Hacker</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Script Kiddie</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Company</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Individual</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                        <owl:hasValue>Individual Harm</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                        <owl:hasValue>Financial Abuse</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Content-Related_Offences"/>
     </owl:Class>
     
@@ -339,6 +1286,80 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#System_Interference -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#System_Interference">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Local Computer Access</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Physical Tampering</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                                <owl:hasValue>Remote Computer Access</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Individual Harm</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Systemic Harm</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Criminal</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Insider</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Script Kiddie</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Financial Abuse</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>ICT Abuse</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Company</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Individual</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Offences_Against_the_Confidentiality_and_Availability_of_Computer_Data_and_Systems"/>
     </owl:Class>
     
@@ -347,6 +1368,76 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Terrorist_Use_of_the_Internet -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Terrorist_Use_of_the_Internet">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Inchoate Harm</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Systemic Harm</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Cyber Terrorist</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Entities as Offenders</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                                <owl:hasValue>Hacktivist</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Emotional Abuse</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Infrastructure ICT Abuse</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Physical Abuse</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                                <owl:hasValue>Social Abuse</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Country</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Individual</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Combinational_Offences"/>
     </owl:Class>
     
@@ -355,82 +1446,50 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Trademark-Related_Offences -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Trademark-Related_Offences">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Inchoate Harm</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasHarm"/>
+                                <owl:hasValue>Individual Harm</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Company</owl:hasValue>
+                            </owl:Restriction>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasVictim"/>
+                                <owl:hasValue>Individual</owl:hasValue>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasAccessViolation"/>
+                        <owl:hasValue>Remote Computer Access</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
+                        <owl:hasValue>Entities as Offenders</owl:hasValue>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasTarget"/>
+                        <owl:hasValue>Financial Abuse</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Offences_Related_to_Infringements_of_Copyright_and_Related_Rights"/>
     </owl:Class>
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Individuals
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    
-
-
-    <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Case434544 -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Case434544">
-        <hasAccessViolation>Physical Tampering</hasAccessViolation>
-        <hasHarm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fear</hasHarm>
-        <hasOffender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Insider</hasOffender>
-        <hasTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emotional Abuse</hasTarget>
-        <hasVictim rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Company</hasVictim>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // General axioms
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    <rdf:Description>
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
-        <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Child_Pornography"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Cyber_Bullying"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Gambling_and_Online_Games"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Pornographic_Material"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Racism_and_Hate_Speech_on_the_Internet"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Religious_Offences"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Spam_and_Related_Threats"/>
-        </owl:members>
-    </rdf:Description>
-    <rdf:Description>
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
-        <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Computer-Related_Forgery"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Computer-Related_Fraud"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Identity_Theft"/>
-        </owl:members>
-    </rdf:Description>
-    <rdf:Description>
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
-        <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Cyber_Laundering"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Cyberwarfare"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Phishing"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Terrorist_Use_of_the_Internet"/>
-        </owl:members>
-    </rdf:Description>
-    <rdf:Description>
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
-        <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Data_Interference"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Access"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Data_Acquisition"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Illegal_Interception"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Misuse_of_Devices"/>
-            <rdf:Description rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#System_Interference"/>
-        </owl:members>
-    </rdf:Description>
 </rdf:RDF>
 
 
