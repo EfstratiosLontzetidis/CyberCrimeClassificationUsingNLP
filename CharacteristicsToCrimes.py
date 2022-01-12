@@ -37,7 +37,6 @@ def map_characteristics_to_crimes():
                 filestochecksimilarity.append(file_path)
                 filestochecksimilarity.append(file2_path)
                 characteristic_name=file2.replace(".txt","")
-                characteristic=read_text_file(file2_path)
                 documents = [open(f,encoding="UTF-8").read() for f in filestochecksimilarity]
                 tfidf = TfidfVectorizer(min_df=1, stop_words="english").fit_transform(documents)
                 # no need to normalize, since Vectorizer will return normalized tf-idf
