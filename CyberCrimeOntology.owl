@@ -88,10 +88,6 @@
                         <owl:unionOf rdf:parseType="Collection">
                             <owl:Restriction>
                                 <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
-                                <owl:hasValue>Abusive User</owl:hasValue>
-                            </owl:Restriction>
-                            <owl:Restriction>
-                                <owl:onProperty rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#hasOffender"/>
                                 <owl:hasValue>Entities as Offenders</owl:hasValue>
                             </owl:Restriction>
                             <owl:Restriction>
