@@ -81,6 +81,7 @@
     <!-- http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Child_Pornography -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Child_Pornography">
+        <owl:equivalentClass rdf:resource="http://www.semanticweb.org/slont/ontologies/2021/11/Ontology-based-3C#Pornographic_Material"/>
         <owl:equivalentClass>
             <owl:Class>
                 <owl:intersectionOf rdf:parseType="Collection">
