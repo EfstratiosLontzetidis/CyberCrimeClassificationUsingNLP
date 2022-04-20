@@ -1,0 +1,17 @@
+Phishing: The offence of phishing is a form of social
+engineering through which the attacker obtains sensitive information by fraudulently pretending to be a trustworthy third
+party [90]. The attack is mainly conducted with the use of
+spoofed e-mails, or through the installation of malware on the
+victims’ computers; however, other methods may exist deriving from the attacker’s imagination and technical expertise.
+Consequently, the victims perceive these e-mails as legitimate providing sensitive information such as credit card
+and e-banking account numbers and passwords, thus, circumventing every possible security measure [91]. It is of no
+interest whether a computer system is equipped with highly
+sophisticated firewall, anti-virus and encryption software and
+authentication mechanisms, if the individual using it falls
+for the phish. Phishing as a digital offence may seem to
+be a variant of spam [92], and therefore categorized in the
+content-related offences. Nonetheless, this kind of attack leads
+to extensive losses regarding sensitive intellectual property,
+customer information by companies, identity theft, national
+security secrets, and trademark violations, illustrating its’
+combinational character [93].

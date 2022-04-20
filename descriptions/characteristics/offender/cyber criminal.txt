@@ -1,0 +1,10 @@
+ Cyber-Criminal: Cyber-criminals are responsible for
+most of the incidents as their main purpose is to obtain
+intelligence and profit from illegal and criminal activity in
+the World Wide Web. They are typically involved in fraud
+regarding every possible cyber activity, such as e-commerce,
+scareware, ransomware, development of malicious code and
+tools, e-finance, and cybercrime-as-a-service [26]. In order to
+achieve their goals, cyber-criminals are highly skilled, well
+equipped and usually form organized groups when the target
+is highly profitable [27].

@@ -1,0 +1,4 @@
+Local Computer Access: Through local computer access,
+an individual can log in a computer system, navigate
+through the operating system and carry out a series of
+possible attacks such as malware installation, information leakage, identity theft, data breaches, etc.

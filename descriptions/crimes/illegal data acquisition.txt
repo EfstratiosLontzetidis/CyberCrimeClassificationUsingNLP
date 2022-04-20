@@ -1,0 +1,16 @@
+Illegal Data Acquisition (Data Espionage): The ubiquitous use of the Internet and the ability to access critical
+financial, political, and personal information through wired
+and wireless devices has aroused the interest of offenders for
+data espionage. The means of illegal data acquisition are the
+same ones used for illegal access, plus some nontechnical ones
+such as “phishing” and “man-in-the-middle attack.” Moreover,
+relatively new but very effective are the advanced persistent threats (APTs) which refer to a combination of stealth
+processes, aiming to a particular entity. The main purpose of
+this attack is to illegally acquire data leaving no traces behind.
+The adversaries’ mission is well organized, following the strict
+directives and guidance [53]. The alarming feature of APT
+though, is that they are used against sensitive State, military
+and industrial organizations, and that the exploitation and evasion techniques used, are mostly unknown (zero-day) to the
+security community [54]. Lastly, a relatively new implementation of data espionage is through the insertion of malicious
+logic, commonly referred to as a hardware Trojan, in the
+integrated circuit [55].

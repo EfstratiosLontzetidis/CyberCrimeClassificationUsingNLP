@@ -1,0 +1,8 @@
+Insider (Employee): Insiders are motivated by revenge,
+profit, extortion or sabotage and play a key role in many
+cyber threats, particularly those leading to data breaches [32].
+Insiders may by current or former employees, current or former service providers/consultants/contractors or
+suppliers/partners, according to a PricewaterhouseCoopers
+report [33]. What is really important in order to minimize the
+risk of an insider threat, is the proper evaluation and distribution of access rights within a company, organization or public
+service [34].

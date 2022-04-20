@@ -1,0 +1,14 @@
+Illegal Access (Hacking and Cracking): In accordance
+with the federal Computer Fraud and Abuse Act [16] hacking
+is the offence in which someone knowingly accesses a computer without authorization or exceeds authorized access, and
+by means of such conduct aims for personal benefit. For
+instance, offences that are described as hacking, are the mass
+sending of “spoofing” e-mails that contain malicious software
+such as key loggers, port-scanners, and rootkits, the setting
+of websites that intend to acquire users’ passwords, breaking
+the security code, or gaining access to databases of passwordprotected websites. Especially, the information accessed may
+be manipulated or distributed, while the websites and accounts
+may undergo DoS attacks in order to crash. Furthermore,
+there has been an outburst of politically motivated attacks
+through distributed malware targeting either organizations [52]
+or individuals.

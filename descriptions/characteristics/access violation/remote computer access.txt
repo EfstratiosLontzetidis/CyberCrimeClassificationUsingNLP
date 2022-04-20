@@ -1,0 +1,8 @@
+Remote Computer Access: Most of cybercrime incidents are committed remotely due to the perceived
+safety, impunity and anonymity that the World Wide
+Web provides. An individual with unlawful intentions, e.g., launching a Web-based attack or accessing
+child pornography, usually commits the offence through
+a remote connection. The Internet, Telecommunication
+networks and the Dark Web are most frequently used,
+while private networks (intranets) accessible only to an
+organization’s staff can also be exploited.

@@ -1,0 +1,13 @@
+Illegal Interception: This category comprehends illegal interceptions of computer data and every type of digital
+communication (such as e-mails) between users. According
+to [56], illegal interception of computer data is the offence
+in which the offender intercepts nonpublic transmissions of
+computer data to, from or within a computer system including
+electromagnetic emissions from a computer system carrying
+such computer data. This interception also has to be without
+right and be carried out using technical means. This offence
+can take place either on the physical or network layer. The
+offender targets any communication infrastructure such as
+rooting devices, fixed lines, wireless transmitters and on the
+network layer, services like chat, e-mail, VOIP, teleconference,
+SIP, etc.

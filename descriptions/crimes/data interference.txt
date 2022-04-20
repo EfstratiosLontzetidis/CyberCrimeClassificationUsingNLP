@@ -1,0 +1,11 @@
+Data Interference: The data stored in computer systems
+are extremely important for individuals, companies, and
+administrations, which leads to the conclusion that every unauthorized modification or access constraint would be crucial.
+Nowadays accessing data can be accomplished also remotely,
+through cloud-based platforms, which means that physical
+contact with the system is not necessary for the offender.
+According to the Convention on Cybercrime Summary [11],
+this offence involves the intentional damaging, deletion, deterioration, alteration, or suppression of computer data without
+right. These acts can be easily conducted through distributed
+computer viruses combined with lack of suitable protection of
+the system targeted.

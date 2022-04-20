@@ -1,0 +1,14 @@
+Misuse of Devices: According to [56], a person commits the criminal offence of misuse of devices, when he
+or she, without right and intentionally produces or by any
+means makes available a device, computer, password, or similar data for the purpose of committing the criminal offences
+mentioned above. Additionally, the same offence is carried
+out, when a person possesses any of the devices, passwords,
+access codes, or similar data, with intent that it be used for
+the purpose of committing any of the above offences, regardless of who produced them. As accented in the details of
+Convention on Cybercrime Treaty [58], the possession shall
+not be interpreted as imposing criminal liability where the
+production, sale, procurement for use, import, distribution or
+otherwise making available or possession is not for the purpose of committing those offences. The proper tools used to
+commit misuse of devices have evolved especially, for relatively simple offences. The only tools needed are a computer
+system with Internet access, but when the attack is complex,
+sophisticated software personalized to the victim are necessary.
