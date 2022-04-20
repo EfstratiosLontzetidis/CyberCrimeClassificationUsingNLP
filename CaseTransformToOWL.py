@@ -54,63 +54,63 @@ def case_to_owl(cases_prefix):
                 if (pairwise_similarity[0,1]>0.05):
                     if counter == 0:
                         if characteristic_name=="abusive user":
-                            new_case.hasOffender = ['Abusive User']
+                            new_case.hasOffender.append('Abusive User')
                         elif characteristic_name=="cyber bully":
-                            new_case.hasOffender = ['Cyber Bully']
+                            new_case.hasOffender.append('Cyber Bully')
                         elif characteristic_name=="cyber fighter":
-                            new_case.hasOffender = ['Cyber Fighter']
+                            new_case.hasOffender.append('Cyber Fighter')
                         elif characteristic_name=="cyber terrorist":
-                            new_case.hasOffender = ['Cyber Terrorist']
+                            new_case.hasOffender.append('Cyber Terrorist')
                         elif characteristic_name=="entities as offenders":
-                            new_case.hasOffender = ['Entities as Offenders']
+                            new_case.hasOffender.append('Entities as Offenders')
                         elif characteristic_name=="hacktivist":
-                            new_case.hasOffender = ['Hacktivist']
+                            new_case.hasOffender.append('Hacktivist')
                         elif characteristic_name=="insider":
-                            new_case.hasOffender = ['Insider']
+                            new_case.hasOffender.append('Insider')
                         elif characteristic_name=="online social hacker":
-                            new_case.hasOffender = ['Online Social Hacker']
+                            new_case.hasOffender.append('Online Social Hacker')
                         elif characteristic_name=="script kiddie":
-                            new_case.hasOffender = ['Script Kiddie']
+                            new_case.hasOffender.append('Script Kiddie')
                         elif characteristic_name=="sexually deviant user":
-                            new_case.hasOffender = ['Sexually Deviant User']
+                            new_case.hasOffender.append('Sexually Deviant User')
                         elif characteristic_name=="cyber criminal":
-                            new_case.hasOffender = ['Cyber Criminal']
+                            new_case.hasOffender.append('Cyber Criminal')
                     elif counter == 1:
                         if characteristic_name=="physical tampering":
-                            new_case.hasAccessViolation = ['Physical Tampering']
+                            new_case.hasAccessViolation.append('Physical Tampering')
                         elif characteristic_name=="local computer access":
-                            new_case.hasAccessViolation = ['Local Computer Access']
+                            new_case.hasAccessViolation.append('Local Computer Access')
                         elif characteristic_name=="remote computer access":
-                            new_case.hasAccessViolation = ['Remote Computer Access']
+                            new_case.hasAccessViolation.append('Remote Computer Access')
                     elif counter == 2:
                         if characteristic_name=="company":
-                            new_case.hasVictim = ['Company']
+                            new_case.hasVictim.append('Company')
                         elif characteristic_name=="country":
-                            new_case.hasVictim = ['Country']
+                            new_case.hasVictim.append('Country')
                         elif characteristic_name=="individual":
-                            new_case.hasVictim = ['Individual']
+                            new_case.hasVictim.append('Individual')
                     elif counter == 3:
                         if characteristic_name == "physical abuse":
-                            new_case.hasTarget = ['Physical Abuse']
+                            new_case.hasTarget.append('Physical Abuse')
                         elif characteristic_name == "emotional abuse":
-                            new_case.hasTarget = ['Emotional Abuse']
+                            new_case.hasTarget.append('Emotional Abuse')
                         elif characteristic_name == "ict abuse":
-                            new_case.hasTarget = ['ICT Abuse']
+                            new_case.hasTarget.append('ICT Abuse')
                         elif characteristic_name == "infrastructure ict abuse":
-                            new_case.hasTarget = ['infrastructure ICT Abuse']
+                            new_case.hasTarget.append('infrastructure ICT Abuse')
                         elif characteristic_name == "sexual abuse":
-                            new_case.hasTarget = ['Sexual Abuse']
+                            new_case.hasTarget.append('Sexual Abuse')
                         elif characteristic_name == "social abuse":
-                            new_case.hasTarget = ['Social Abuse']
+                            new_case.hasTarget.append('Social Abuse')
                         elif characteristic_name == "financial abuse":
-                            new_case.hasTarget = ['Financial Abuse']
+                            new_case.hasTarget.append('Financial Abuse')
                     else:
                         if characteristic_name == "inchoate harm":
-                            new_case.hasHarm = ['Inchoate Harm']
+                            new_case.hasHarm.append('Inchoate Harm')
                         elif characteristic_name == "individual harm":
-                            new_case.hasHarm = ['Individual Harm']
+                            new_case.hasHarm.append('Individual Harm')
                         elif characteristic_name == "systemic harm":
-                            new_case.hasHarm = ['Systemic Harm']
+                            new_case.hasHarm.append('Systemic Harm')
                     print(characteristic_name)
                     print("''''''''''''''''''''''''''''''''''''''''''''''''''''''")
                 filestochecksimilarity.clear()

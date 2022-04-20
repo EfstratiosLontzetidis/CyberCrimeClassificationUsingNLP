@@ -1,0 +1,38 @@
+Six Estonian nationals have been arrested and charged with running a sophisticated Internet fraud ring that infected millions of computers worldwide with a virus and enabled the thieves to manipulate the multi-billion-dollar Internet advertising industry. Users of infected machines were unaware that their computers had been compromised—or that the malicious software rendered their machines vulnerable to a host of other viruses.
+
+Details of the two-year FBI investigation called Operation Ghost Click were announced today in New York when a federal indictment was unsealed. Officials also described their efforts to make sure infected users’ Internet access would not be disrupted as a result of the operation.
+
+The indictment, said Janice Fedarcyk, assistant director in charge of our New York office, “describes an intricate international conspiracy conceived and carried out by sophisticated criminals.” She added, “The harm inflicted by the defendants was not merely a matter of reaping illegitimate income.”
+
+
+
+FBI Statement:
+Janice Fedarcyk, New York Assistant Director in Charge
+
+Janice Fedarcyk (Thumbnail)“Today, with the flip of a switch, the FBI and our partners dismantled the Rove criminal enterprise. Thanks to the collective effort across the U.S. and in Estonia, six leaders of the criminal enterprise have been arrested and numerous servers operated by the criminal organization have been disabled. Additionally, thanks to a coordinated effort of trusted industry partners, a mitigation plan commenced today, beginning with the replacement of rogue DNS servers with clean DNS servers to keep millions online, while providing ISPs the opportunity to coordinate user remediation efforts.” More
+
+
+
+Beginning in 2007, the cyber ring used a class of malware called DNSChanger to infect approximately 4 million computers in more than 100 countries. There were about 500,000 infections in the U.S., including computers belonging to individuals, businesses, and government agencies such as NASA. The thieves were able to manipulate Internet advertising to generate at least $14 million in illicit fees. In some cases, the malware had the additional effect of preventing users’ anti-virus software and operating systems from updating, thereby exposing infected machines to even more malicious software.
+
+“They were organized and operating as a traditional business but profiting illegally as the result of the malware,” said one of our cyber agents who worked the case. “There was a level of complexity here that we haven’t seen before.”
+
+DNS—Domain Name System—is a critical Internet service that converts user-friendly domain names, such as www.fbi.gov, into numerical addresses that allow computers to talk to each other. Without DNS and the DNS servers operated by Internet service providers, computer users would not be able to browse websites or send e-mail.
+
+DNSChanger was used to redirect unsuspecting users to rogue servers controlled by the cyber thieves, allowing them to manipulate users’ web activity. When users of infected computers clicked on the link for the official website of iTunes, for example, they were instead taken to a website for a business unaffiliated with Apple Inc. that purported to sell Apple software. Not only did the cyber thieves make money from these schemes, they deprived legitimate website operators and advertisers of substantial revenue. 
+
+
+
+Success Through Partnerships
+
+A complex international investigation such as Operation Ghost Click could only have been successful through the strong working relationships between law enforcement, private industry, and our international partners.
+
+Announcing today’s arrests, Preet Bharara, (above left) U.S. Attorney for the Southern District of New York, praised the investigative work of the FBI, NASA’s Office of Inspector General (OIG), the Estonian Police and Border Guard Board, and he specially thanked the National High Tech Crime Unit of the Dutch National Police Agency. In addition, the FBI and NASA-OIG received assistance from multiple domestic and international private sector partners, including Georgia Tech University, Internet Systems Consortium, Mandiant, National Cyber-Forensics and Training Alliance, Neustar, Spamhaus, Team Cymru, Trend Micro, University of Alabama at Birmingham, and members of an ad hoc group of subject matter experts known as the DNS Changer Working Group (DCWG).
+
+
+
+The six cyber criminals were taken into custody yesterday in Estonia by local authorities, and the U.S. will seek to extradite them. In conjunction with the arrests, U.S. authorities seized computers and rogue DNS servers at various locations. As part of a federal court order, the rogue DNS servers have been replaced with legitimate servers in the hopes that users who were infected will not have their Internet access disrupted.
+
+It is important to note that the replacement servers will not remove the DNSChanger malware—or other viruses it may have facilitated—from infected computers. Users who believe their computers may be infected should contact a computer professional. They can also find additional information in the links on this page, including how to register as a victim of the DNSChanger malware. And the FBI’s Office for Victim Assistance will provide case updates periodically at 877-236-8947.
+
+Update on March 12, 2012: To assist victims affected by the DNSChanger malicious software, the FBI obtained a court order authorizing the Internet Systems Consortium (ISC) to deploy and maintain temporary clean DNS servers. This solution is temporary, providing additional time for victims to clean affected computers and restore their normal DNS settings. The clean DNS servers will be turned off on July 9, 2012, and computers still impacted by DNSChanger may lose Internet connectivity at that time.
