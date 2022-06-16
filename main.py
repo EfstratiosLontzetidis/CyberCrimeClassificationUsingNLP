@@ -1,5 +1,6 @@
 from CaseTransformToOWL import case_to_owl
 from CharacteristicsToCrimes import map_characteristics_to_crimes
+from JaccardTransformCase import case_to_owl_jaccard
 
 # Efstratios Lontzetidis dissertation for MSc Information Security and Digital Forensics
 # This tool give the user the option to pick if he wants to see the cyber crimes listing with their characteristics
@@ -15,10 +16,18 @@ while True:
     elif (user_input=="2"):
         location_input=input("Input the location of the cases. Press enter for default location (./descriptions/cases) :")
         if location_input == "":
-            case_to_owl("./descriptions/cases")
+            location="./descriptions/cases"
         else:
-            case_to_owl(location_input)
-
+            location=location_input
+        algorithm_input=input("Input the preferred algorithm for similarity comparisons. 1) Cosine Similarity 2) Jaccard Similarity 3) Euclidean Distance . Default: Cosine Similarity")
+        if algorithm_input == "1":
+            case_to_owl(location)
+        elif algorithm_input == "2":
+            case_to_owl_jaccard(location)
+        #elif algorithm_input=="3":
+        #   case_to_owl_euclidean(location)
+        else:
+            case_to_owl(location)
         break
     else:
         print("Unexpected input, please try again.")

@@ -8,6 +8,7 @@ def read_text_file(file_path):
 
 def case_to_owl(cases_prefix):
     print("The imported cases are implemented in the existing ontology as individuals and are associated with their respective characteristics (data properties) using NLP techniques (comparing similarity of documents) on the descriptions of the existing literature\n")
+    print("****Algorithm: COSINE SIMILARITY********")
     # load ontology
     crime = get_ontology("file://CyberCrimeOntology.owl").load()
 
