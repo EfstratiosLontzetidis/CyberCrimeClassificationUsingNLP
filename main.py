@@ -13,7 +13,12 @@ while True:
         map_characteristics_to_crimes()
         break
     elif (user_input=="2"):
-        case_to_owl("./descriptions/cases")
+        location_input=input("Input the location of the cases. Press enter for default location (./descriptions/cases) :")
+        if location_input == "":
+            case_to_owl("./descriptions/cases")
+        else:
+            case_to_owl(location_input)
+
         break
     else:
         print("Unexpected input, please try again.")
